@@ -6,7 +6,7 @@ require_relative 'nerdcast'
 
 class NerdcastDownloader
 
-	def download 
+	def download_all
     if !Dir.exists?("episodes")
       Dir.mkdir("episodes")
     end
@@ -77,14 +77,22 @@ class NerdcastDownloader
 
   def download_episode(nc)
     
-    puts "Episodio          : #{nc.title}"
-    puts "Arquivo Destino   : #{nc.dest_file}"
-    puts "Arquivo Original  : #{nc.mp3_file}"  
+    begin
 
-    File.open(nc.dest_file, "wb") do |saved_file|
-      open(nc.mp3_file, "rb", :allow_redirections => :all) do |read_file|
-        saved_file.write(read_file.read)
+      file_size = Filesize.from(nc.size.to_s + " B").pretty
+      puts "Episodio            : #{nc.title}"
+      puts "Arquivo Destino     : #{nc.dest_file}"
+      puts "Arquivo Original    : #{nc.mp3_file}"  
+      puts "Tamanho do Arquivo  : #{file_size}"  
+
+      File.open(nc.dest_file, "wb") do |saved_file|
+        open(nc.mp3_file, "rb", :allow_redirections => :all) do |read_file|
+          saved_file.write(read_file.read)
+        end
       end
+    
+    rescue
+      puts "Erro ao fazer o dowload do episodio #{nc.title}"
     end
 
     puts
@@ -109,6 +117,3 @@ class NerdcastDownloader
   end
 
 end
-
-down = NerdcastDownloader.new
-down.download
