@@ -93,6 +93,7 @@ class NerdcastDownloader
     
     rescue
       puts "Erro ao fazer o dowload do episodio #{nc.title}"
+      File.delete(nc.dest_file)
     end
 
     puts
