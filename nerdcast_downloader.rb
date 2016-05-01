@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'open_uri_redirections'
 
-class DownloadNerdcast 
+class NerdcastDownloader
 
 	def download 
 		file = File.new('feed.xml')
@@ -30,7 +30,9 @@ class DownloadNerdcast
 	end
 
   def download_file(file, destination_name)
-    Dir.mkdir("episodes")
+    if !Dir.exists?("episodes")
+      Dir.mkdir("episodes")
+    end
     destination_name = "episodes/" + destination_name
 
     file_exists = File.size?(destination_name)
@@ -67,5 +69,5 @@ class DownloadNerdcast
 
 end
 
-down = DownloadNerdcast.new
+down = NerdcastDownloader.new
 down.download
