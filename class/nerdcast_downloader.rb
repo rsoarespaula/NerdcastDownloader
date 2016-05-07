@@ -44,9 +44,11 @@ class NerdcastDownloader
   end
 
   def get_episodes
-    file = File.new('feed.xml')
-
-    doc = Nokogiri::XML(file)
+    #file = File.new('feed.xml')
+    puts "Obtendo feed..."
+    doc = Nokogiri::HTML(open("https://jovemnerd.com.br/categoria/nerdcast/feed/"))
+    puts "Feed obtido"
+    puts 
     
     episodes_array = Array.new
 
