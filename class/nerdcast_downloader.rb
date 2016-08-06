@@ -3,14 +3,11 @@ require 'open-uri'
 require 'open_uri_redirections'
 require 'filesize'
 require_relative 'nerdcast'
+#require 'fileutils'
 
 class NerdcastDownloader
 
 	def download_all
-    if !Dir.exists?("episodes")
-      Dir.mkdir("episodes")
-    end
-
     episodes = get_episodes
     
     episodes_to_download = select_episodes_to_download(episodes)
@@ -45,6 +42,8 @@ class NerdcastDownloader
 
   def get_episodes
     #file = File.new('feed.xml')
+    #doc = Nokogiri::HTML(open(file))
+    
     puts "Obtendo feed..."
     doc = Nokogiri::HTML(open("https://jovemnerd.com.br/categoria/nerdcast/feed/"))
     puts "Feed obtido"
@@ -55,26 +54,49 @@ class NerdcastDownloader
     doc.xpath('//channel/item').each do |item|
 
       title = item.at_xpath('title').content
+      # So pega episodios que tem numero, pois tem alguns aleatorios que nao tem, 
+      # mas nao tem problema, pois nao sao da serie do nerdcast mesmo
+      episode_number = get_episode_number(title)
+      if episode_number > 0 then
+        episode_series = get_series(title)
 
-      dest_file = title.dup + ".mp3"
+        dest_file = title.dup + ".mp3"
 
-      #file_name_destination = title.dup
-      dest_file_name = sanitize_filename(dest_file)
+        #file_name_destination = title.dup
+        dest_file_name = sanitize_filename(dest_file)
+        
+        dest_dir = "episodes/#{episode_series}"
 
-      dest_file = "episodes/" + dest_file_name
+        dest_file = "#{dest_dir}/#{episode_number} - #{dest_file_name}"
 
-      size = item.at_xpath('enclosure').attr('length').to_i
+        size = item.at_xpath('enclosure').attr('length').to_i
 
-      nc = Nerdcast.new
-      nc.title = title
-      nc.mp3_file = item.at_xpath('enclosure').attr('url')
-      nc.dest_file = dest_file
-      nc.dest_file_name = dest_file_name
-      nc.size = size
-      episodes_array.push(nc)
+
+        nc = Nerdcast.new
+        nc.series = episode_series
+        nc.episode_number = episode_number
+
+        nc.title = title
+        nc.mp3_file = item.at_xpath('enclosure').attr('url')
+        nc.dest_dir = dest_dir
+        nc.dest_file = dest_file
+        nc.dest_file_name = dest_file_name
+        nc.size = size
+        episodes_array.push(nc)
+      end
     end
 
     episodes_array
+  end
+
+  def get_series(episode_title)
+    first_number_index = episode_title.index(episode_title[/\d+/])-1
+    series = episode_title[0...first_number_index]
+    series
+  end
+
+  def get_episode_number(episode_title)
+    episode_title[/\d+/].to_i
   end
 
   def download_episode(nc)
@@ -82,10 +104,17 @@ class NerdcastDownloader
     begin
 
       file_size = Filesize.from(nc.size.to_s + " B").pretty
-      puts "Episodio            : #{nc.title}"
-      puts "Arquivo Destino     : #{nc.dest_file}"
+      puts "Serie               : #{nc.series}"
+      puts "Episodio #          : #{nc.episode_number}"
+      puts "Titulo do Episodio  : #{nc.title}"
+      puts "Diretorio Destino   : #{nc.dest_dir}"
+      puts "Arquivo Destino     : #{nc.dest_file_name}"
       puts "Arquivo Original    : #{nc.mp3_file}"  
       puts "Tamanho do Arquivo  : #{file_size}"  
+
+      if !Dir.exists?(nc.dest_dir)
+        Dir.mkdir(nc.dest_dir)
+      end
 
       File.open(nc.dest_file, "wb") do |saved_file|
         open(nc.mp3_file, "rb", :allow_redirections => :all) do |read_file|

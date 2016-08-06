@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'open_uri_redirections'
+gem 'filesize'
+gem 'fileutils'
