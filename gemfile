@@ -1,4 +1,5 @@
 gem 'nokogiri'
 gem 'open_uri_redirections'
 gem 'filesize'
+gem 'json'
 gem 'fileutils'
