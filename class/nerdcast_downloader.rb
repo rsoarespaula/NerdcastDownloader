@@ -10,7 +10,22 @@ class NerdcastDownloader
 
 	def download_all
     series_list = FeedParser.get_series
+    download_series(series_list)
+  end
 
+  def download_favorites
+    series_list = get_series
+    FavoritesLoader.star_favorites(series_list)
+    remove_not_starred(series_list)
+    download_series(series_list)
+  end
+
+  def show_episodes
+    series = FeedParser.get_series
+    Printer.print_series_full(series)
+  end
+
+  def download_series(series_list)
     series_list.each do |series|
       puts "Baixando a serie #{series.name}"
 
@@ -23,24 +38,9 @@ class NerdcastDownloader
     end
   end
 
-  def download_favorites
-    fav_loader = FavoritesLoader.new
-    favorites = fav_loader.load_favorites
+  #Remove os episodios que nao sao favoritos da lista de episodios de cada serie
+  def remove_not_starred(series)
 
-    #episodes = get_series
-
-    #episodes_to_download = select_episodes_to_download(episodes)
-
-    #episodes_to_download.each do |nc|
-    #  download_episode(nc)
-    #end
-
-    puts
-  end
-
-  def show_episodes
-    series = FeedParser.get_series
-    Printer.print_series_full(series)
   end
 
   def select_episodes_to_download(episodes)

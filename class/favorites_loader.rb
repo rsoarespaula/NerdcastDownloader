@@ -3,7 +3,11 @@ require_relative 'series'
 require_relative 'nerdcast'
 class FavoritesLoader
 
-  def load_favorites
+  def self.star_favorites(series)
+    favorites = load_favorites
+  end
+
+  def self.load_favorites
     favorite_series = Array.new
     favorites_file = File.read('favorites.json')
 
