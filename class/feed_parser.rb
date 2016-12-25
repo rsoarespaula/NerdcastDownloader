@@ -1,6 +1,6 @@
 class FeedParser
 
-  def self.get_episodes
+  def self.get_series
     if File.exist?('feed.xml')
       puts 'Arquivo de feed encontrado. Nao irei baixar o feed do site.'
       file = File.new('feed.xml')

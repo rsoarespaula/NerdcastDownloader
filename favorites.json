@@ -4,7 +4,15 @@
     "episodes": [528]
   },
   {
-    "name": "NerdCast Empreendedor",
-    "episodes": [528]
+    "name": "NerdTech",
+    "episodes": []
+  },
+  {
+    "name": "Empreendedor",
+    "episodes": []
+  },
+  {
+    "name": "HaloCast",
+    "episodes": []
   }
 ]

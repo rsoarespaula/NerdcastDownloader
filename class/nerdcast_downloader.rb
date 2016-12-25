@@ -9,22 +9,25 @@ require_relative '../class/feed_parser'
 class NerdcastDownloader
 
 	def download_all
-    episodes = FeedParser.get_episodes
-    
-    episodes_to_download = select_episodes_to_download(episodes)
+    series_list = FeedParser.get_series
 
-    episodes_to_download.each do |nc|
-      download_episode(nc)
+    series_list.each do |series|
+      puts "Baixando a serie #{series.name}"
+
+      episodes_to_download = select_episodes_to_download(series.episodes)
+
+      episodes_to_download.each do |nc|
+        download_episode(nc)
+      end
+      puts
     end
-
-    puts 
   end
 
   def download_favorites
     fav_loader = FavoritesLoader.new
     favorites = fav_loader.load_favorites
 
-    #episodes = get_episodes
+    #episodes = get_series
 
     #episodes_to_download = select_episodes_to_download(episodes)
 
@@ -36,7 +39,7 @@ class NerdcastDownloader
   end
 
   def show_episodes
-    series = FeedParser.get_episodes
+    series = FeedParser.get_series
     Printer.print_series_full(series)
   end
 
@@ -77,8 +80,8 @@ class NerdcastDownloader
         end
       end
     
-    rescue
-      puts "Erro ao fazer o dowload do episodio #{nc.title}"
+    rescue => error
+      puts "Erro ao fazer o dowload do episodio #{nc.title}. #{error}"
       File.delete(nc.dest_file)
     end
 
