@@ -9,5 +9,6 @@ class Nerdcast
   attr_accessor :dest_file
   attr_accessor :size
 
+  attr_accessor :favorite
 
 end

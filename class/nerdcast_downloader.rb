@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'open_uri_redirections'
 require_relative 'nerdcast'
-require_relative '../class/favorites_loader'
+require_relative '../class/favorites_manager'
 require_relative '../class/printer'
 require_relative '../class/feed_parser'
 
@@ -14,9 +14,9 @@ class NerdcastDownloader
   end
 
   def download_favorites
-    series_list = get_series
-    FavoritesLoader.star_favorites(series_list)
-    remove_not_starred(series_list)
+    series_list = FeedParser.get_series
+    FavoritesManager.star_favorites(series_list)
+    FavoritesManager.remove_not_starred(series_list)
     download_series(series_list)
   end
 
@@ -27,7 +27,9 @@ class NerdcastDownloader
 
   def download_series(series_list)
     series_list.each do |series|
-      puts "Baixando a serie #{series.name}"
+      puts '==============================================================================='
+      puts "                        Baixando a serie #{series.name}"
+      puts '==============================================================================='
 
       episodes_to_download = select_episodes_to_download(series.episodes)
 
@@ -36,11 +38,6 @@ class NerdcastDownloader
       end
       puts
     end
-  end
-
-  #Remove os episodios que nao sao favoritos da lista de episodios de cada serie
-  def remove_not_starred(series)
-
   end
 
   def select_episodes_to_download(episodes)

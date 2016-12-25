@@ -54,6 +54,7 @@ class FeedParser
         nc.dest_file = dest_file
         nc.dest_file_name = dest_file_name
         nc.size = size
+        nc.favorite = false
         series.episodes.push(nc)
       end
     end
