@@ -136,28 +136,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_499_bandas_de_g
 Tamanho do Arquivo  : 5.42 KiB
 
 Serie               : NerdCast
-Episodio #          : 498
-Titulo do Episodio  : NerdCast 498 - RPG Cyberpunk 3: Estrada para o inferno
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_498_-_RPG_Cyberpunk_3__Estrada_para_o_inferno.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_498_RPG_cyberpunk_3.mp3
-Tamanho do Arquivo  : 12.02 KiB
-
-Serie               : NerdCast
 Episodio #          : 497
 Titulo do Episodio  : NerdCast 497 - Star Wars VII – O despertar das emoções
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_497_-_Star_Wars_VII___O_despertar_das_emocoes.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_497_star_wars_7.mp3
 Tamanho do Arquivo  : 6.94 KiB
-
-Serie               : NerdCast
-Episodio #          : 496
-Titulo do Episodio  : NerdCast 496 - Uma viajante no Oriente Médio
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_496_-_Uma_viajante_no_Oriente_Medio.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_496_viagem_oriente_medio.mp3
-Tamanho do Arquivo  : 6.88 KiB
 
 Serie               : NerdCast
 Episodio #          : 495
@@ -176,60 +160,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_494_desista_das
 Tamanho do Arquivo  : 7.16 KiB
 
 Serie               : NerdCast
-Episodio #          : 493
-Titulo do Episodio  : NerdCast 493 - NerdConnection: Política Internacional 2015
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_493_-_NerdConnection__Politica_Internacional_2015.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_493_politica_internacional_2015.mp3
-Tamanho do Arquivo  : 5.23 KiB
-
-Serie               : NerdCast
-Episodio #          : 492
-Titulo do Episodio  : NerdCast 492 - Divertida mente no divã
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_492_-_Divertida_mente_no_diva.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_492_divertida_mente.mp3
-Tamanho do Arquivo  : 4.89 KiB
-
-Serie               : NerdCast
-Episodio #          : 491
-Titulo do Episodio  : NerdCast 491 - Filhos do Éden e o fim de tudo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_491_-_Filhos_do_Eden_e_o_fim_de_tudo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_491_FilhosDoEden_ParaisoPerdido.mp3
-Tamanho do Arquivo  : 6.19 KiB
-
-Serie               : NerdCast
-Episodio #          : 490
-Titulo do Episodio  : NerdCast 490 - O Ultra-Humano
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_490_-_O_Ultra-Humano.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_490_ultra_humano.mp3
-Tamanho do Arquivo  : 5.57 KiB
-
-Serie               : NerdCast
 Episodio #          : 489
 Titulo do Episodio  : NerdCast 489 - Mas que mania! 3
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_489_-_Mas_que_mania__3.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_489_manias.mp3
 Tamanho do Arquivo  : 6.13 KiB
-
-Serie               : NerdCast
-Episodio #          : 488
-Titulo do Episodio  : NerdCast 488 - A batalha dos crossovers 5
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_488_-_A_batalha_dos_crossovers_5.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_488_crossovers_5.mp3
-Tamanho do Arquivo  : 4.63 KiB
-
-Serie               : NerdCast
-Episodio #          : 487
-Titulo do Episodio  : NerdCast 487 - As engrenagens da Revolução industrial
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_487_-_As_engrenagens_da_Revolucao_industrial.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_487_revolucao_industrial.mp3
-Tamanho do Arquivo  : 4.92 KiB
 
 Serie               : NerdCast
 Episodio #          : 486
@@ -240,44 +176,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_486_nerdcast_se
 Tamanho do Arquivo  : 5.62 KiB
 
 Serie               : NerdCast
-Episodio #          : 485
-Titulo do Episodio  : NerdCast 485 - Conhecendo os Médicos Sem Fronteiras
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_485_-_Conhecendo_os_Medicos_Sem_Fronteiras.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_485_medicos_sem_fronteiras.mp3
-Tamanho do Arquivo  : 3.47 KiB
-
-Serie               : NerdCast
-Episodio #          : 484
-Titulo do Episodio  : NerdCast 484 - Histórias de um mecânico espacial
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_484_-_Historias_de_um_mecanico_espacial.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_484_marcos_pontes.mp3
-Tamanho do Arquivo  : 6.14 KiB
-
-Serie               : NerdCast
-Episodio #          : 483
-Titulo do Episodio  : NerdCast 483 - Entendendo Rugby… ou não.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_483_-_Entendendo_Rugby__ou_nao..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_483_rugby.mp3
-Tamanho do Arquivo  : 4.56 KiB
-
-Serie               : NerdCast
 Episodio #          : 482
 Titulo do Episodio  : NerdCast 482 - As dimensões de Interestelar
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_482_-_As_dimensoes_de_Interestelar.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_482_interestelar.mp3
 Tamanho do Arquivo  : 6.28 KiB
-
-Serie               : NerdCast
-Episodio #          : 481
-Titulo do Episodio  : NerdCast 481 - A Cronologia Metal Gear
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_481_-_A_Cronologia_Metal_Gear.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_481_metal_gear.mp3
-Tamanho do Arquivo  : 6.58 KiB
 
 Serie               : NerdCast
 Episodio #          : 480
@@ -304,44 +208,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_478_negocios_di
 Tamanho do Arquivo  : 5.27 KiB
 
 Serie               : NerdCast
-Episodio #          : 477
-Titulo do Episodio  : NerdCast 477 - Maravilhas do Mundo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_477_-_Maravilhas_do_Mundo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_477_maravilhas_do_mundo.mp3
-Tamanho do Arquivo  : 5.20 KiB
-
-Serie               : NerdCast
 Episodio #          : 476
 Titulo do Episodio  : NerdCast 476 - Viajar é se f*der
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_476_-_Viajar_e_se_f_der.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_476_viagens_de_trabalho.mp3
 Tamanho do Arquivo  : 5.79 KiB
-
-Serie               : NerdCast
-Episodio #          : 475
-Titulo do Episodio  : NerdCast 475 - Profissão: Cientista
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_475_-_Profissao__Cientista.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_475_profissao_cientista.mp3
-Tamanho do Arquivo  : 5.31 KiB
-
-Serie               : NerdCast
-Episodio #          : 474
-Titulo do Episodio  : NerdCast 474 - A Batalha de Stalingrado
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_474_-_A_Batalha_de_Stalingrado.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_474_batalha_de_stalingrado.mp3
-Tamanho do Arquivo  : 4.06 KiB
-
-Serie               : NerdCast
-Episodio #          : 473
-Titulo do Episodio  : NerdCast 473 - A Ciência do Medo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_473_-_A_Ciencia_do_Medo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_473_ciencia_do_medo.mp3
-Tamanho do Arquivo  : 4.38 KiB
 
 Serie               : NerdCast
 Episodio #          : 472
@@ -352,116 +224,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_472_game_of_thr
 Tamanho do Arquivo  : 6.08 KiB
 
 Serie               : NerdCast
-Episodio #          : 471
-Titulo do Episodio  : NerdCast 471 - Elementar, meu caro Nerd
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_471_-_Elementar__meu_caro_Nerd.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_471_sherlock_holmes.mp3
-Tamanho do Arquivo  : 4.81 KiB
-
-Serie               : NerdCast
-Episodio #          : 470
-Titulo do Episodio  : NerdCast 470 - Expresso Empreendedor 5
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_470_-_Expresso_Empreendedor_5.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_470_expresso_empreendedor_05.mp3
-Tamanho do Arquivo  : 4.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 469
-Titulo do Episodio  : NerdCast 469 - Especial Dia dos Namorados 2015
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_469_-_Especial_Dia_dos_Namorados_2015.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_469_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 9.63 KiB
-
-Serie               : NerdCast
-Episodio #          : 468
-Titulo do Episodio  : NerdCast 468 - Do escambo ao e-commerce
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_468_-_Do_escambo_ao_e-commerce.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_468_historia_do_comercio.mp3
-Tamanho do Arquivo  : 5.67 KiB
-
-Serie               : NerdCast
-Episodio #          : 467
-Titulo do Episodio  : NerdCast 467 - A deturpada mente dos vilões
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_467_-_A_deturpada_mente_dos_viloes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_467_a_mente_dos_viloes.mp3
-Tamanho do Arquivo  : 5.19 KiB
-
-Serie               : NerdCast
-Episodio #          : 466
-Titulo do Episodio  : NerdCast 466 - Mad Max Fury Road: Testemunhem!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_466_-_Mad_Max_Fury_Road__Testemunhem_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_466_mad_max_fury_road.mp3
-Tamanho do Arquivo  : 6.31 KiB
-
-Serie               : NerdCast
-Episodio #          : 465
-Titulo do Episodio  : NerdCast 465 - As cores do sucesso de Romero Britto
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_465_-_As_cores_do_sucesso_de_Romero_Britto.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_465_romero_britto.mp3
-Tamanho do Arquivo  : 4.09 KiB
-
-Serie               : NerdCast
-Episodio #          : 464
-Titulo do Episodio  : NerdCast 464 - Babycast 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_464_-_Babycast_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_464_babycast_2.mp3
-Tamanho do Arquivo  : 6.02 KiB
-
-Serie               : NerdCast
-Episodio #          : 463
-Titulo do Episodio  : NerdCast 463 - Vingadores: A carência de Ultron
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_463_-_Vingadores__A_carencia_de_Ultron.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_463_vingadores_2.mp3
-Tamanho do Arquivo  : 5.70 KiB
-
-Serie               : NerdCast
-Episodio #          : 462
-Titulo do Episodio  : NerdCast 462 - A ciência da linguagem
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_462_-_A_ciencia_da_linguagem.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_462_ciencia_da_linguagem.mp3
-Tamanho do Arquivo  : 4.83 KiB
-
-Serie               : NerdCast
-Episodio #          : 461
-Titulo do Episodio  : NerdCast 461 - O Verdadeiro Coração Valente
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_461_-_O_Verdadeiro_Coracao_Valente.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_461_william_wallace.mp3
-Tamanho do Arquivo  : 5.16 KiB
-
-Serie               : NerdCast
-Episodio #          : 460
-Titulo do Episodio  : NerdCast 460 - Estudo, Perseverança e Pratos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_460_-_Estudo__Perseveranca_e_Pratos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_460_andre_souza.mp3
-Tamanho do Arquivo  : 6.89 KiB
-
-Serie               : NerdCast
 Episodio #          : 459
 Titulo do Episodio  : NerdCast 459 - Sem Licença para Dirigir
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_459_-_Sem_Licenca_para_Dirigir.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_459_sem_licenca_pra_dirigir.mp3
 Tamanho do Arquivo  : 5.82 KiB
-
-Serie               : NerdCast
-Episodio #          : 458
-Titulo do Episodio  : NerdCast 458 - Os mundos dos RPG games
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_458_-_Os_mundos_dos_RPG_games.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_458_rpg_games.mp3
-Tamanho do Arquivo  : 4.91 KiB
 
 Serie               : NerdCast
 Episodio #          : 457
@@ -472,36 +240,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_457_impossible_
 Tamanho do Arquivo  : 6.52 KiB
 
 Serie               : NerdCast
-Episodio #          : 456
-Titulo do Episodio  : NerdCast 456 - O Cramunhão
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_456_-_O_Cramunhao.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_456_diabo.mp3
-Tamanho do Arquivo  : 5.30 KiB
-
-Serie               : NerdCast
-Episodio #          : 455
-Titulo do Episodio  : NerdCast 455 - Casa do Baralho
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_455_-_Casa_do_Baralho.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_455_house_of_cards.mp3
-Tamanho do Arquivo  : 6.58 KiB
-
-Serie               : NerdCast
 Episodio #          : 454
 Titulo do Episodio  : NerdCast 454 - Sal, Açúcar e Gordura
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_454_-_Sal__Acucar_e_Gordura.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_454_industria_alimenticia.mp3
 Tamanho do Arquivo  : 5.32 KiB
-
-Serie               : NerdCast
-Episodio #          : 453
-Titulo do Episodio  : NerdCast 453 - Saudades das Tias Hanna e Barbera
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_453_-_Saudades_das_Tias_Hanna_e_Barbera.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_453_hanna_barbera.mp3
-Tamanho do Arquivo  : 5.88 KiB
 
 Serie               : NerdCast
 Episodio #          : 452
@@ -512,28 +256,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_452_colapso_urb
 Tamanho do Arquivo  : 6.09 KiB
 
 Serie               : NerdCast
-Episodio #          : 451
-Titulo do Episodio  : NerdCast 451 - Como será a Terceira Guerra Mundial?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_451_-_Como_sera_a_Terceira_Guerra_Mundial_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_451_terceira_guerra_mundial.mp3
-Tamanho do Arquivo  : 5.60 KiB
-
-Serie               : NerdCast
 Episodio #          : 450
 Titulo do Episodio  : NerdCast 450 - O Melhor de 450 Nerdcasts!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_450_-_O_Melhor_de_450_Nerdcasts_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_450_melhores450.mp3
 Tamanho do Arquivo  : 6.99 KiB
-
-Serie               : NerdCast
-Episodio #          : 449
-Titulo do Episodio  : NerdCast 449 - Nômades Modernos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_449_-_Nomades_Modernos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_449_nomades_modernos.mp3
-Tamanho do Arquivo  : 5.33 KiB
 
 Serie               : NerdCast
 Episodio #          : 448
@@ -552,84 +280,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_447_sexo_no_vol
 Tamanho do Arquivo  : 4.59 KiB
 
 Serie               : NerdCast
-Episodio #          : 446
-Titulo do Episodio  : NerdCast 446 - RPG Cyberpunk 2: O Passageiro do Futuro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_446_-_RPG_Cyberpunk_2__O_Passageiro_do_Futuro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_446_RPG_cyberpunk_2.mp3
-Tamanho do Arquivo  : 7.62 KiB
-
-Serie               : NerdCast
-Episodio #          : 445
-Titulo do Episodio  : NerdCast 445 - O Hobbit – Redenção! Ou não…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_445_-_O_Hobbit___Redencao__Ou_nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_445_hobbit_3.mp3
-Tamanho do Arquivo  : 7.01 KiB
-
-Serie               : NerdCast
-Episodio #          : 444
-Titulo do Episodio  : NerdCast 444 - NerdConnection: Política Internacional 2014
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_444_-_NerdConnection__Politica_Internacional_2014.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_444_nerdconnection_politica_mundial.mp3
-Tamanho do Arquivo  : 5.71 KiB
-
-Serie               : NerdCast
-Episodio #          : 443
-Titulo do Episodio  : NerdCast 443 - Os tiros dos FPS games
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_443_-_Os_tiros_dos_FPS_games.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_443_fps.mp3
-Tamanho do Arquivo  : 6.21 KiB
-
-Serie               : NerdCast
-Episodio #          : 442
-Titulo do Episodio  : NerdCast 442 - As Cabeças da Revolução Francesa
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_442_-_As_Cabecas_da_Revolucao_Francesa.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_442_revolucao_francesa.mp3
-Tamanho do Arquivo  : 5.82 KiB
-
-Serie               : NerdCast
-Episodio #          : 441
-Titulo do Episodio  : NerdCast 441 - Profissão: Engenheiro Civil
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_441_-_Profissao__Engenheiro_Civil.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_441_engenheiro_civil.mp3
-Tamanho do Arquivo  : 5.91 KiB
-
-Serie               : NerdCast
-Episodio #          : 440
-Titulo do Episodio  : NerdCast 440 - Making of Podcasts
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_440_-_Making_of_Podcasts.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_440_making_of_podcasts.mp3
-Tamanho do Arquivo  : 6.57 KiB
-
-Serie               : NerdCast
-Episodio #          : 439
-Titulo do Episodio  : NerdCast 439 - Marvel & DC 2020
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_439_-_Marvel___DC_2020.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_439_marvel_dc_2020.mp3
-Tamanho do Arquivo  : 6.88 KiB
-
-Serie               : NerdCast
 Episodio #          : 438
 Titulo do Episodio  : NerdCast 438 - Histórias de Faculdade 2
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_438_-_Historias_de_Faculdade_2.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_438_historias_de_faculdade_2.mp3
 Tamanho do Arquivo  : 6.15 KiB
-
-Serie               : NerdCast
-Episodio #          : 437
-Titulo do Episodio  : NerdCast 437 - A Guerra das Rosas
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_437_-_A_Guerra_das_Rosas.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_437_guerra_das_rosas.mp3
-Tamanho do Arquivo  : 4.88 KiB
 
 Serie               : NerdCast
 Episodio #          : 436
@@ -640,68 +296,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_436_to_velho_de
 Tamanho do Arquivo  : 5.76 KiB
 
 Serie               : NerdCast
-Episodio #          : 435
-Titulo do Episodio  : NerdCast 435 - Criação de Mundos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_435_-_Criacao_de_Mundos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_435_criacao_de_mundos.mp3
-Tamanho do Arquivo  : 7.35 KiB
-
-Serie               : NerdCast
-Episodio #          : 434
-Titulo do Episodio  : NerdCast 434 - Nerds Cervejeiros
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_434_-_Nerds_Cervejeiros.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_434_cerveja.mp3
-Tamanho do Arquivo  : 4.99 KiB
-
-Serie               : NerdCast
-Episodio #          : 433
-Titulo do Episodio  : NerdCast 433 - Lendas da Fórmula 1
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_433_-_Lendas_da_Formula_1.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_433_formula_1.mp3
-Tamanho do Arquivo  : 6.58 KiB
-
-Serie               : NerdCast
-Episodio #          : 432
-Titulo do Episodio  : NerdCast 432 - Tecnologias do futuro 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_432_-_Tecnologias_do_futuro_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_432_tecnologias_do_futuro_2.mp3
-Tamanho do Arquivo  : 4.77 KiB
-
-Serie               : NerdCast
-Episodio #          : 431
-Titulo do Episodio  : NerdCast 431 - Brincadeira de Criança
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_431_-_Brincadeira_de_Crianca.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_431_brincadeira_de_crianca.mp3
-Tamanho do Arquivo  : 5.06 KiB
-
-Serie               : NerdCast
-Episodio #          : 430
-Titulo do Episodio  : NerdCast 430 - Alguns Mistérios da Humanidade
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_430_-_Alguns_Misterios_da_Humanidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_430_misterios_da_humanidade.mp3
-Tamanho do Arquivo  : 6.22 KiB
-
-Serie               : NerdCast
 Episodio #          : 429
 Titulo do Episodio  : NerdCast 429 - Profissão: Cara do TI
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_429_-_Profissao__Cara_do_TI.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_429_profissao_cara_do_ti.mp3
 Tamanho do Arquivo  : 6.29 KiB
-
-Serie               : NerdCast
-Episodio #          : 428
-Titulo do Episodio  : NerdCast 428 - Marvel no Cinema
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_428_-_Marvel_no_Cinema.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_428_marvel_no_cinema.mp3
-Tamanho do Arquivo  : 8.51 KiB
 
 Serie               : NerdCast
 Episodio #          : 427
@@ -712,54 +312,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_427_cid_nao_sal
 Tamanho do Arquivo  : 6.48 KiB
 
 Serie               : NerdCast
-Episodio #          : 426
-Titulo do Episodio  : NerdCast 426 - Nerdtour Califórnia e Comic-Con
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_426_-_Nerdtour_California_e_Comic-Con.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_426_nerdtour_california_comic_con.mp3
-Tamanho do Arquivo  : 8.45 KiB
-
-Serie               : NerdCast
-Episodio #          : 425
-Titulo do Episodio  : NerdCast 425 - A Ciência dos Super-Heróis 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_425_-_A_Ciencia_dos_Super-Herois_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_425_ciencia_herois_2.mp3
-Tamanho do Arquivo  : 5.65 KiB
-
-Serie               : NerdCast
-Episodio #          : 424
-Titulo do Episodio  : NerdCast 424 - Matemática > Vida
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_424_-_Matematica___Vida.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_424_matematica.mp3
-Tamanho do Arquivo  : 5.10 KiB
-
-Serie               : NerdCast
-Episodio #          : 423
-Titulo do Episodio  : NerdCast 423 - Os sonhos perpétuos de Sandman
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_423_-_Os_sonhos_perpetuos_de_Sandman.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_423_sandman.mp3
-Tamanho do Arquivo  : 6.04 KiB
-
-Serie               : NerdCast
-Episodio #          : 422
-Titulo do Episodio  : NerdCast 422 - Barba, Cabelo, Bigode e …Sobrancelha?!?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_422_-_Barba__Cabelo__Bigode_e__Sobrancelha___.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_422_vaidade.mp3
-Tamanho do Arquivo  : 5.90 KiB
-
-Serie               : NerdCast
-Episodio #          : 421
-Titulo do Episodio  : NerdCast 421 - Eu, colecionador
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_421_-_Eu__colecionador.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_421_colecionadores.mp3
-Tamanho do Arquivo  : 5.86 KiB
-
-Serie               : NerdCast
 Episodio #          : 420
 Titulo do Episodio  : NerdCast 420 - Na Guerra dos Tronos Valar Morghulis
 Diretorio Destino   : episodes/NerdCast
@@ -768,44 +320,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_420_game_of_thr
 Tamanho do Arquivo  : 6.80 KiB
 
 Serie               : NerdCast
-Episodio #          : 419
-Titulo do Episodio  : NerdCast 419 - Aquecimento Global: Fato ou Mito?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_419_-_Aquecimento_Global__Fato_ou_Mito_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_419_aquecimento_global.mp3
-Tamanho do Arquivo  : 5.24 KiB
-
-Serie               : NerdCast
-Episodio #          : 418
-Titulo do Episodio  : NerdCast 418 - Debate: #vaitercopa #nãovaitercopa
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_418_-_Debate___vaitercopa__naovaitercopa.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_418_vaitercopa_naovaitercopa.mp3
-Tamanho do Arquivo  : 5.49 KiB
-
-Serie               : NerdCast
-Episodio #          : 417
-Titulo do Episodio  : NerdCast 417 - Especial Dia dos Namorados 2014
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_417_-_Especial_Dia_dos_Namorados_2014.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_417_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 8.23 KiB
-
-Serie               : NerdCast
 Episodio #          : 416
 Titulo do Episodio  : NerdCast 416 - Best Friends Forever
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_416_-_Best_Friends_Forever.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_416_friends.mp3
 Tamanho do Arquivo  : 6.54 KiB
-
-Serie               : NerdCast
-Episodio #          : 415
-Titulo do Episodio  : NerdCast 415 - Os Novos Jogos de Tabuleiro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_415_-_Os_Novos_Jogos_de_Tabuleiro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_415_jogos_de_tabuleiro.mp3
-Tamanho do Arquivo  : 6.17 KiB
 
 Serie               : NerdCast
 Episodio #          : 414
@@ -840,30 +360,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_411_turistas_ba
 Tamanho do Arquivo  : 5.04 KiB
 
 Serie               : NerdCast
-Episodio #          : 409
-Titulo do Episodio  : NerdCast 409 - Alienígenas do Passado
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_409_-_Alienigenas_do_Passado.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_409_alienigenas_do_passado.mp3
-Tamanho do Arquivo  : 5.71 KiB
-
-Serie               : NerdCast
-Episodio #          : 408
-Titulo do Episodio  : NerdCast 408 - Sopranos: seu tempo acabou
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_408_-_Sopranos__seu_tempo_acabou.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_408_sopranos.mp3
-Tamanho do Arquivo  : 6.46 KiB
-
-Serie               : NerdCast
-Episodio #          : 407
-Titulo do Episodio  : NerdCast 407 - A Aurora do Renascimento
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_407_-_A_Aurora_do_Renascimento.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_407_renascimento.mp3
-Tamanho do Arquivo  : 6.37 KiB
-
-Serie               : NerdCast
 Episodio #          : 406
 Titulo do Episodio  : NerdCast 406 - O Obscuro e Iluminado Stephen King
 Diretorio Destino   : episodes/NerdCast
@@ -878,30 +374,6 @@ Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_405_-_Esse_filme_e_uma_merda__mas_eu_gosto_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_405_filme_merda_mas_eu_gosto.mp3
 Tamanho do Arquivo  : 5.61 KiB
-
-Serie               : NerdCast
-Episodio #          : 404
-Titulo do Episodio  : NerdCast 404 - Nerdtour Londres – 2014
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_404_-_Nerdtour_Londres___2014.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_404_nerdtour_londres.mp3
-Tamanho do Arquivo  : 6.38 KiB
-
-Serie               : NerdCast
-Episodio #          : 403
-Titulo do Episodio  : NerdCast 403 - Robocop vs Robocop
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_403_-_Robocop_vs_Robocop.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_403_robocop_vs_robocop.mp3
-Tamanho do Arquivo  : 6.12 KiB
-
-Serie               : NerdCast
-Episodio #          : 402
-Titulo do Episodio  : NerdCast 402 - O Sistema Solar
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_402_-_O_Sistema_Solar.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_402_sistema_solar.mp3
-Tamanho do Arquivo  : 5.14 KiB
 
 Serie               : NerdCast
 Episodio #          : 401
@@ -928,166 +400,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_399_outras_regr
 Tamanho do Arquivo  : 5.00 KiB
 
 Serie               : NerdCast
-Episodio #          : 398
-Titulo do Episodio  : NerdCast 398 - A Era dos Dinossauros
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_398_-_A_Era_dos_Dinossauros.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_398_dinossauros.mp3
-Tamanho do Arquivo  : 6.09 KiB
-
-Serie               : NerdCast
-Episodio #          : 397
-Titulo do Episodio  : NerdCast 397 - Polêmicas da Publicidade
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_397_-_Polemicas_da_Publicidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_397_polemicas_da_publicidade.mp3
-Tamanho do Arquivo  : 5.34 KiB
-
-Serie               : NerdCast
-Episodio #          : 396
-Titulo do Episodio  : NerdCast 396 - Babycast
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_396_-_Babycast.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_396_babycast.mp3
-Tamanho do Arquivo  : 6.60 KiB
-
-Serie               : NerdCast
-Episodio #          : 395
-Titulo do Episodio  : NerdCast 395 - RPG Cyberpunk 1: O grande assalto
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_395_-_RPG_Cyberpunk_1__O_grande_assalto.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_395_RPG_cyberpunk_1.mp3
-Tamanho do Arquivo  : 9.21 KiB
-
-Serie               : NerdCast
-Episodio #          : 394
-Titulo do Episodio  : NerdCast 394 - O Hobbit – A Desolação de Peter Jackson
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_394_-_O_Hobbit___A_Desolacao_de_Peter_Jackson.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_394_hobbit_2.mp3
-Tamanho do Arquivo  : 6.93 KiB
-
-Serie               : NerdCast
-Episodio #          : 393
-Titulo do Episodio  : NerdCast 393 - Ouro, Diamantes e Bitcoins
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_393_-_Ouro__Diamantes_e_Bitcoins.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_393_bitcoins.mp3
-Tamanho do Arquivo  : 4.86 KiB
-
-Serie               : NerdCast
-Episodio #          : 392
-Titulo do Episodio  : NerdCast 392 - A Guerra dos 100 anos. Ou não…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_392_-_A_Guerra_dos_100_anos._Ou_nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_392_guerra_dos_100_anos.mp3
-Tamanho do Arquivo  : 6.47 KiB
-
-Serie               : NerdCast
-Episodio #          : 391
-Titulo do Episodio  : NerdCast 391 - Ela dança, eu danço. Ou não…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_391_-_Ela_danca__eu_danco._Ou_nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_391_danca_alta.mp3
-Tamanho do Arquivo  : 5.77 KiB
-
-Serie               : NerdCast
-Episodio #          : 390
-Titulo do Episodio  : NerdCast 390 - A Era de Battlefield
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_390_-_A_Era_de_Battlefield.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_390_battlefield.mp3
-Tamanho do Arquivo  : 5.81 KiB
-
-Serie               : NerdCast
-Episodio #          : 389
-Titulo do Episodio  : NerdCast 389 - O buraco e o humor negro de Stephen Hawking
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_389_-_O_buraco_e_o_humor_negro_de_Stephen_Hawking.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_389_stephen_hawking.mp3
-Tamanho do Arquivo  : 4.43 KiB
-
-Serie               : NerdCast
-Episodio #          : 388
-Titulo do Episodio  : NerdCast 388 - O mundo conservado das embalagens
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_388_-_O_mundo_conservado_das_embalagens.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_388_embalagens.mp3
-Tamanho do Arquivo  : 5.08 KiB
-
-Serie               : NerdCast
-Episodio #          : 387
-Titulo do Episodio  : NerdCast 387 - Eu sobrevivi!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_387_-_Eu_sobrevivi_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_387_sobrevivencia.mp3
-Tamanho do Arquivo  : 4.49 KiB
-
-Serie               : NerdCast
-Episodio #          : 386
-Titulo do Episodio  : NerdCast 386 - A ciência e as metáforas de Gravidade
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_386_-_A_ciencia_e_as_metaforas_de_Gravidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_386_gravidade.mp3
-Tamanho do Arquivo  : 5.46 KiB
-
-Serie               : NerdCast
-Episodio #          : 385
-Titulo do Episodio  : NerdCast 385 - Os segredos públicos de Tom Clancy
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_385_-_Os_segredos_publicos_de_Tom_Clancy.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_385_tom_clancy.mp3
-Tamanho do Arquivo  : 4.86 KiB
-
-Serie               : NerdCast
-Episodio #          : 384
-Titulo do Episodio  : NerdCast 384 - Minha Vida Não Convencional
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_384_-_Minha_Vida_Nao_Convencional.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_384_vida_nao_convencional.mp3
-Tamanho do Arquivo  : 5.28 KiB
-
-Serie               : NerdCast
-Episodio #          : 383
-Titulo do Episodio  : NerdCast 383 - Abrindo o Porta dos Fundos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_383_-_Abrindo_o_Porta_dos_Fundos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_383_porta_dos_fundos.mp3
-Tamanho do Arquivo  : 5.78 KiB
-
-Serie               : NerdCast
-Episodio #          : 382
-Titulo do Episodio  : NerdCast 382 - Hobbies, Coleções e Manias
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_382_-_Hobbies__Colecoes_e_Manias.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_382_hobbies.mp3
-Tamanho do Arquivo  : 5.54 KiB
-
-Serie               : NerdCast
-Episodio #          : 381
-Titulo do Episodio  : NerdCast 381 - Tecnologias do Futuro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_381_-_Tecnologias_do_Futuro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_381_tecnologias_do_futuro.mp3
-Tamanho do Arquivo  : 5.58 KiB
-
-Serie               : NerdCast
-Episodio #          : 380
-Titulo do Episodio  : NerdCast 380 - Espionagem Digital
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_380_-_Espionagem_Digital.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_380_espionagem_digital.mp3
-Tamanho do Arquivo  : 6.49 KiB
-
-Serie               : NerdCast
-Episodio #          : 379
-Titulo do Episodio  : NerdCast 379 - Literatura Fantástica Brasileira
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_379_-_Literatura_Fantastica_Brasileira.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_379_literatura_fantastica_brasileira.mp3
-Tamanho do Arquivo  : 6.45 KiB
-
-Serie               : NerdCast
 Episodio #          : 378
 Titulo do Episodio  : NerdCast 378 - Pequenos Prazeres
 Diretorio Destino   : episodes/NerdCast
@@ -1104,28 +416,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_377_armazenamen
 Tamanho do Arquivo  : 5.47 KiB
 
 Serie               : NerdCast
-Episodio #          : 376
-Titulo do Episodio  : NerdCast 376 - O Mundo Canibal dos Irmãos Piologo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_376_-_O_Mundo_Canibal_dos_Irmaos_Piologo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_376_mundo_canibal.mp3
-Tamanho do Arquivo  : 4.63 KiB
-
-Serie               : NerdCast
 Episodio #          : 375
 Titulo do Episodio  : NerdCast 375 - Breaking Bad: Chutando o Balde
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_375_-_Breaking_Bad__Chutando_o_Balde.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_375_breaking_bad.mp3
 Tamanho do Arquivo  : 7.45 KiB
-
-Serie               : NerdCast
-Episodio #          : 374
-Titulo do Episodio  : NerdCast 374 - Mitos da Ciência
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_374_-_Mitos_da_Ciencia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_374_mitos_da_ciencia.mp3
-Tamanho do Arquivo  : 4.63 KiB
 
 Serie               : NerdCast
 Episodio #          : 373
@@ -1136,36 +432,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_373_regras_nao_
 Tamanho do Arquivo  : 5.63 KiB
 
 Serie               : NerdCast
-Episodio #          : 372
-Titulo do Episodio  : NerdCast 372 - Man Of Steel: PQP!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_372_-_Man_Of_Steel__PQP_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_372_man_of_steel.mp3
-Tamanho do Arquivo  : 5.19 KiB
-
-Serie               : NerdCast
-Episodio #          : 371
-Titulo do Episodio  : NerdCast 371 - Caneladas Da História
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_371_-_Caneladas_Da_Historia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_371_caneladas_da_historia.mp3
-Tamanho do Arquivo  : 4.31 KiB
-
-Serie               : NerdCast
 Episodio #          : 370
 Titulo do Episodio  : NerdCast 370 - E se… ganhássemos na loteria?
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_370_-_E_se__ganhassemos_na_loteria_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_370_loteria.mp3
 Tamanho do Arquivo  : 5.10 KiB
-
-Serie               : NerdCast
-Episodio #          : 369
-Titulo do Episodio  : NerdCast 369 - Profissão: Médico
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_369_-_Profissao__Medico.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_369_profissao_medico.mp3
-Tamanho do Arquivo  : 5.67 KiB
 
 Serie               : NerdCast
 Episodio #          : 368
@@ -1176,30 +448,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_368_guerra_dos_
 Tamanho do Arquivo  : 5.57 KiB
 
 Serie               : NerdCast
-Episodio #          : 367
-Titulo do Episodio  : NerdCast 367 - Nerdtour NZ – Terra Média
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_367_-_Nerdtour_NZ___Terra_Media.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_367_nerdtour_NZ.mp3
-Tamanho do Arquivo  : 8.39 KiB
-
-Serie               : NerdCast
-Episodio #          : 366
-Titulo do Episodio  : NerdCast 366 - Especial Dia dos Namorados 2013
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_366_-_Especial_Dia_dos_Namorados_2013.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_366_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 7.65 KiB
-
-Serie               : NerdCast
-Episodio #          : 365
-Titulo do Episodio  : NerdCast 365 - Quantificando a Física Quântica
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_365_-_Quantificando_a_Fisica_Quantica.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_365_fisica_quantica.mp3
-Tamanho do Arquivo  : 3.83 KiB
-
-Serie               : NerdCast
 Episodio #          : 364
 Titulo do Episodio  : NerdCast 364 - Walking Dead: HQ vs TV
 Diretorio Destino   : episodes/NerdCast
@@ -1208,60 +456,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_364_walking_dea
 Tamanho do Arquivo  : 5.14 KiB
 
 Serie               : NerdCast
-Episodio #          : 363
-Titulo do Episodio  : NerdCast 363 - The Deep, the bad and the dirty web
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_363_-_The_Deep__the_bad_and_the_dirty_web.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_363_deep_web.mp3
-Tamanho do Arquivo  : 4.57 KiB
-
-Serie               : NerdCast
-Episodio #          : 362
-Titulo do Episodio  : NerdCast 362 - As Guerras dos Anjos da Morte
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_362_-_As_Guerras_dos_Anjos_da_Morte.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_362_anjos_da_morte.mp3
-Tamanho do Arquivo  : 6.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 361
-Titulo do Episodio  : NerdCast 361 - A batalha dos crossovers 4
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_361_-_A_batalha_dos_crossovers_4.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_361_crossovers_4.mp3
-Tamanho do Arquivo  : 4.26 KiB
-
-Serie               : NerdCast
-Episodio #          : 360
-Titulo do Episodio  : NerdCast 360 - A utopia dos futuros distópicos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_360_-_A_utopia_dos_futuros_distopicos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_360_distopias.mp3
-Tamanho do Arquivo  : 4.93 KiB
-
-Serie               : NerdCast
 Episodio #          : 359
 Titulo do Episodio  : NerdCast 359 - Aquele Tipinho de Pessoa
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_359_-_Aquele_Tipinho_de_Pessoa.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_359_tipos_de_pessoas.mp3
 Tamanho do Arquivo  : 4.79 KiB
-
-Serie               : NerdCast
-Episodio #          : 358
-Titulo do Episodio  : NerdCast 358 - O Poder da Retórica
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_358_-_O_Poder_da_Retorica.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_358_retorica.mp3
-Tamanho do Arquivo  : 5.00 KiB
-
-Serie               : NerdCast
-Episodio #          : 357
-Titulo do Episodio  : NerdCast 357 - Mercenários e Tropas de Elite
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_357_-_Mercenarios_e_Tropas_de_Elite.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_357_tropas_de_elite.mp3
-Tamanho do Arquivo  : 5.17 KiB
 
 Serie               : NerdCast
 Episodio #          : 356
@@ -1280,60 +480,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_355_chocolate.m
 Tamanho do Arquivo  : 4.49 KiB
 
 Serie               : NerdCast
-Episodio #          : 354
-Titulo do Episodio  : NerdCast 354 - O turno dos RTS games
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_354_-_O_turno_dos_RTS_games.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_354_RTS_games.mp3
-Tamanho do Arquivo  : 5.37 KiB
-
-Serie               : NerdCast
-Episodio #          : 353
-Titulo do Episodio  : NerdCast 353 - Coreia Style
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_353_-_Coreia_Style.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_353_coreia.mp3
-Tamanho do Arquivo  : 5.32 KiB
-
-Serie               : NerdCast
-Episodio #          : 352
-Titulo do Episodio  : NerdCast 352 - A Ciência dos Super-Herois
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_352_-_A_Ciencia_dos_Super-Herois.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_352_ciencia_herois.mp3
-Tamanho do Arquivo  : 6.18 KiB
-
-Serie               : NerdCast
-Episodio #          : 351
-Titulo do Episodio  : NerdCast 351 - Asteroides, meteoros e aerolitos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_351_-_Asteroides__meteoros_e_aerolitos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_351_asteroides.mp3
-Tamanho do Arquivo  : 4.46 KiB
-
-Serie               : NerdCast
 Episodio #          : 350
 Titulo do Episodio  : NerdCast 350 - O Melhor de 350 Nerdcasts!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_350_-_O_Melhor_de_350_Nerdcasts_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_350_melhores350.mp3
 Tamanho do Arquivo  : 6.29 KiB
-
-Serie               : NerdCast
-Episodio #          : 349
-Titulo do Episodio  : NerdCast 349 - Ordens medievais
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_349_-_Ordens_medievais.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_349_ordens_medievais.mp3
-Tamanho do Arquivo  : 4.35 KiB
-
-Serie               : NerdCast
-Episodio #          : 348
-Titulo do Episodio  : NerdCast 348 - Profissão: Designer Gráfico
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_348_-_Profissao__Designer_Grafico.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_348_profissao_designer_grafico.mp3
-Tamanho do Arquivo  : 4.58 KiB
 
 Serie               : NerdCast
 Episodio #          : 347
@@ -1344,76 +496,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_347_comida.mp3
 Tamanho do Arquivo  : 5.17 KiB
 
 Serie               : NerdCast
-Episodio #          : 346
-Titulo do Episodio  : NerdCast 346 - Hackers, Crackers e Dieckmans
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_346_-_Hackers__Crackers_e_Dieckmans.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_346_hackers.mp3
-Tamanho do Arquivo  : 5.38 KiB
-
-Serie               : NerdCast
-Episodio #          : 345
-Titulo do Episodio  : NerdCast 345 - No tempo do fliperama
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_345_-_No_tempo_do_fliperama.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_345_fliperama.mp3
-Tamanho do Arquivo  : 5.34 KiB
-
-Serie               : NerdCast
-Episodio #          : 344
-Titulo do Episodio  : NerdCast 344 - O mundo de Walt Disney
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_344_-_O_mundo_de_Walt_Disney.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_344_walt_disney.mp3
-Tamanho do Arquivo  : 5.94 KiB
-
-Serie               : NerdCast
-Episodio #          : 343
-Titulo do Episodio  : NerdCast 343 - O Hobbit: Uma jornada esperada
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_343_-_O_Hobbit__Uma_jornada_esperada.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_343_hobbit_1.mp3
-Tamanho do Arquivo  : 6.65 KiB
-
-Serie               : NerdCast
-Episodio #          : 342
-Titulo do Episodio  : NerdCast 342 - Audio Drama – T-Zombii: A Gravação dos Mortos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_342_-_Audio_Drama___T-Zombii__A_Gravacao_dos_Mortos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_342_audio-drama_t-zombii.mp3
-Tamanho do Arquivo  : 4.54 KiB
-
-Serie               : NerdCast
-Episodio #          : 341
-Titulo do Episodio  : NerdCast 341 - Especial RPG – O Corvo, a Periguete e o Bucentauro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_341_-_Especial_RPG___O_Corvo__a_Periguete_e_o_Bucentauro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_341_especial_rpg_3.mp3
-Tamanho do Arquivo  : 9.49 KiB
-
-Serie               : NerdCast
 Episodio #          : 340
 Titulo do Episodio  : NerdCast 340 - Nerdcast sobre aquilo!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_340_-_Nerdcast_sobre_aquilo_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_340_porno.mp3
 Tamanho do Arquivo  : 5.03 KiB
-
-Serie               : NerdCast
-Episodio #          : 339
-Titulo do Episodio  : NerdCast 339 - Distúrbios mentais
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_339_-_Disturbios_mentais.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_339_disturbios_mentais.mp3
-Tamanho do Arquivo  : 5.23 KiB
-
-Serie               : NerdCast
-Episodio #          : 338
-Titulo do Episodio  : NerdCast 338 - O melhor e o pior dos filmes de games
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_338_-_O_melhor_e_o_pior_dos_filmes_de_games.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_338_filmes_de_games.mp3
-Tamanho do Arquivo  : 6.06 KiB
 
 Serie               : NerdCast
 Episodio #          : 337
@@ -1424,70 +512,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_337_protocolos_
 Tamanho do Arquivo  : 4.96 KiB
 
 Serie               : NerdCast
-Episodio #          : 336
-Titulo do Episodio  : NerdCast 336 - A revolução americana
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_336_-_A_revolucao_americana.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_336_revolucao_americana.mp3
-Tamanho do Arquivo  : 5.24 KiB
-
-Serie               : NerdCast
-Episodio #          : 335
-Titulo do Episodio  : NerdCast 335 - Hip hop: A revolução não televisionada
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_335_-_Hip_hop__A_revolucao_nao_televisionada.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_335_hiphop.mp3
-Tamanho do Arquivo  : 5.76 KiB
-
-Serie               : NerdCast
-Episodio #          : 334
-Titulo do Episodio  : NerdCast 334 - Remakes relembrados
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_334_-_Remakes_relembrados.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_334_remakes.mp3
-Tamanho do Arquivo  : 5.02 KiB
-
-Serie               : NerdCast
-Episodio #          : 333
-Titulo do Episodio  : NerdCast 333 - Máquinas de guerra – Modernidade
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_333_-_Maquinas_de_guerra___Modernidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_333_maquinas_de_guerra_modernidade.mp3
-Tamanho do Arquivo  : 5.35 KiB
-
-Serie               : NerdCast
-Episodio #          : 332
-Titulo do Episodio  : NerdCast 332 - Profissão: Professor
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_332_-_Profissao__Professor.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_332_profissao_professor.mp3
-Tamanho do Arquivo  : 4.80 KiB
-
-Serie               : NerdCast
-Episodio #          : 331
-Titulo do Episodio  : NerdCast 331 - Conjecturas sobre viagens no tempo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_331_-_Conjecturas_sobre_viagens_no_tempo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_331_viagem_no_tempo.mp3
-Tamanho do Arquivo  : 4.51 KiB
-
-Serie               : NerdCast
-Episodio #          : 330
-Titulo do Episodio  : NerdCast 330 - Choque de gerações e outras reflexões
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_330_-_Choque_de_geracoes_e_outras_reflexoes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_330_choque_de_geracoes.mp3
-Tamanho do Arquivo  : 5.99 KiB
-
-Serie               : NerdCast
-Episodio #          : 329
-Titulo do Episodio  : NerdCast 329 - Bikini Girls with Machine Guns 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_329_-_Bikini_Girls_with_Machine_Guns_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_329_bikini_girls_machine_guns_2.mp3
-Tamanho do Arquivo  : 5.36 KiB
-
-Serie               : NerdCast
 Episodio #          : 328
 Titulo do Episodio  : NerdCast 328 - Pra sempre desgraçado da minha cabeça!
 Diretorio Destino   : episodes/NerdCast
@@ -1496,76 +520,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_328_coisas_irri
 Tamanho do Arquivo  : 5.53 KiB
 
 Serie               : NerdCast
-Episodio #          : 327
-Titulo do Episodio  : NerdCast 327 - Making of Independência ou Mortos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_327_-_Making_of_Independencia_ou_Mortos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_327_independencia_ou_mortos.mp3
-Tamanho do Arquivo  : 5.46 KiB
-
-Serie               : NerdCast
-Episodio #          : 326
-Titulo do Episodio  : NerdCast 326 - Breve história do petróleo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_326_-_Breve_historia_do_petroleo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_326_petroleo.mp3
-Tamanho do Arquivo  : 4.43 KiB
-
-Serie               : NerdCast
-Episodio #          : 325
-Titulo do Episodio  : NerdCast 325 - A Era dos Adventure Games
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_325_-_A_Era_dos_Adventure_Games.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_325_adventure_games.mp3
-Tamanho do Arquivo  : 5.26 KiB
-
-Serie               : NerdCast
-Episodio #          : 324
-Titulo do Episodio  : NerdCast 324 - Alô criançada, o Bóson chegou!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_324_-_Alo_criancada__o_Boson_chegou_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_324_boson_de_higgs.mp3
-Tamanho do Arquivo  : 5.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 323
-Titulo do Episodio  : NerdCast 323 - Marte, Curiosity e a Fronteira Final
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_323_-_Marte__Curiosity_e_a_Fronteira_Final.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_323_curiosity.mp3
-Tamanho do Arquivo  : 5.38 KiB
-
-Serie               : NerdCast
-Episodio #          : 322
-Titulo do Episodio  : NerdCast 322 - The Bat, the Cat and the Bane
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_322_-_The_Bat__the_Cat_and_the_Bane.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_322_dark_knight_rises.mp3
-Tamanho do Arquivo  : 6.19 KiB
-
-Serie               : NerdCast
-Episodio #          : 321
-Titulo do Episodio  : NerdCast 321 - O universo inominável de H.P. Lovecraft
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_321_-_O_universo_inominavel_de_H.P._Lovecraft.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_321_hp_lovecraft.mp3
-Tamanho do Arquivo  : 5.95 KiB
-
-Serie               : NerdCast
 Episodio #          : 320
 Titulo do Episodio  : NerdCast 320 - ~A cultura da internet~
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_320_-__A_cultura_da_internet_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_320_cultura_de_internet.mp3
 Tamanho do Arquivo  : 6.00 KiB
-
-Serie               : NerdCast
-Episodio #          : 319
-Titulo do Episodio  : NerdCast 319 - Causos e areias do antigo Egito
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_319_-_Causos_e_areias_do_antigo_Egito.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_319_egito.mp3
-Tamanho do Arquivo  : 5.26 KiB
 
 Serie               : NerdCast
 Episodio #          : 318
@@ -1600,78 +560,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_315_schwarzeneg
 Tamanho do Arquivo  : 6.04 KiB
 
 Serie               : NerdCast
-Episodio #          : 314
-Titulo do Episodio  : NerdCast 314 - Especial Dia dos Namorados 2012
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_314_-_Especial_Dia_dos_Namorados_2012.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_314_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 6.12 KiB
-
-Serie               : NerdCast
-Episodio #          : 313
-Titulo do Episodio  : NerdCast 313 - HQ: Os Velhos Novos 52
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_313_-_HQ__Os_Velhos_Novos_52.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_313_reboot_DC.mp3
-Tamanho do Arquivo  : 6.53 KiB
-
-Serie               : NerdCast
-Episodio #          : 312
-Titulo do Episodio  : NerdCast 312 - Nerdcast do baralho!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_312_-_Nerdcast_do_baralho_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_312_baralho.mp3
-Tamanho do Arquivo  : 5.38 KiB
-
-Serie               : NerdCast
-Episodio #          : 311
-Titulo do Episodio  : NerdCast 311 - Decifrando Donnie Darko. Ou não.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_311_-_Decifrando_Donnie_Darko._Ou_nao..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_311_donnie_darko.mp3
-Tamanho do Arquivo  : 3.83 KiB
-
-Serie               : NerdCast
-Episodio #          : 309
-Titulo do Episodio  : NerdCast 309 - Do Vale-Tudo ao MMA
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_309_-_Do_Vale-Tudo_ao_MMA.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_309_mma.mp3
-Tamanho do Arquivo  : 5.13 KiB
-
-Serie               : NerdCast
-Episodio #          : 308
-Titulo do Episodio  : NerdCast 308 - Aníbal Barca – O pesadelo de Roma
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_308_-_Anibal_Barca___O_pesadelo_de_Roma.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_308_anibal_barca.mp3
-Tamanho do Arquivo  : 5.05 KiB
-
-Serie               : NerdCast
-Episodio #          : 307
-Titulo do Episodio  : NerdCast 307 - Nostalgia do humor brasileiro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_307_-_Nostalgia_do_humor_brasileiro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_307_humor_brasileiro.mp3
-Tamanho do Arquivo  : 4.69 KiB
-
-Serie               : NerdCast
-Episodio #          : 306
-Titulo do Episodio  : NerdCast 306 - Nerdtour 2012 – O mago, a caneta e os nerds
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_306_-_Nerdtour_2012___O_mago__a_caneta_e_os_nerds.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_306_nerdtour2012.mp3
-Tamanho do Arquivo  : 6.84 KiB
-
-Serie               : NerdCast
-Episodio #          : 305
-Titulo do Episodio  : NerdCast 305 - A batalha dos crossovers 3
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_305_-_A_batalha_dos_crossovers_3.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_305_crossovers_3.mp3
-Tamanho do Arquivo  : 5.54 KiB
-
-Serie               : NerdCast
 Episodio #          : 304
 Titulo do Episodio  : NerdCast 304 - Dossiê escola
 Diretorio Destino   : episodes/NerdCast
@@ -1686,14 +574,6 @@ Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_303_-_A_guerra_das_Malv__Falklands.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_303_guerra_das_malvinas.mp3
 Tamanho do Arquivo  : 4.61 KiB
-
-Serie               : NerdCast
-Episodio #          : 302
-Titulo do Episodio  : NerdCast 302 - Notas mentais sobre neurociência
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_302_-_Notas_mentais_sobre_neurociencia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_302_neurociencia.mp3
-Tamanho do Arquivo  : 5.42 KiB
 
 Serie               : NerdCast
 Episodio #          : 301
@@ -1712,60 +592,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_300_melhores300
 Tamanho do Arquivo  : 6.55 KiB
 
 Serie               : NerdCast
-Episodio #          : 299
-Titulo do Episodio  : NerdCast 299 - A sombria ascensão de Hitler
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_299_-_A_sombria_ascensao_de_Hitler.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_299_hitler.mp3
-Tamanho do Arquivo  : 5.55 KiB
-
-Serie               : NerdCast
-Episodio #          : 298
-Titulo do Episodio  : NerdCast 298 - A gênese e os gênios da ficção-científica
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_298_-_A_genese_e_os_genios_da_ficcao-cientifica.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_298_ficcao_cientifica.mp3
-Tamanho do Arquivo  : 6.07 KiB
-
-Serie               : NerdCast
-Episodio #          : 297
-Titulo do Episodio  : NerdCast 297 - Campus “Paco” Party
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_297_-_Campus__Paco__Party.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_297_paco_ragageles.mp3
-Tamanho do Arquivo  : 3.02 KiB
-
-Serie               : NerdCast
-Episodio #          : 296
-Titulo do Episodio  : NerdCast 296 - Indie Game Power!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_296_-_Indie_Game_Power_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_296_indie_games.mp3
-Tamanho do Arquivo  : 5.92 KiB
-
-Serie               : NerdCast
-Episodio #          : 295
-Titulo do Episodio  : NerdCast 295 - SOPA, PIPA, ACTA… PQP!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_295_-_SOPA__PIPA__ACTA__PQP_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_295_sopa_pipa_acta.mp3
-Tamanho do Arquivo  : 4.38 KiB
-
-Serie               : NerdCast
 Episodio #          : 294
 Titulo do Episodio  : NerdCast 294 - Mas que final horrível!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_294_-_Mas_que_final_horrivel_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_294_finais_horriveis.mp3
 Tamanho do Arquivo  : 5.53 KiB
-
-Serie               : NerdCast
-Episodio #          : 293
-Titulo do Episodio  : NerdCast 293 - Tintim, o macaco e o herege
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_293_-_Tintim__o_macaco_e_o_herege.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_293_tintim.mp3
-Tamanho do Arquivo  : 3.53 KiB
 
 Serie               : NerdCast
 Episodio #          : 292
@@ -1776,44 +608,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_292_mancadas.mp
 Tamanho do Arquivo  : 4.50 KiB
 
 Serie               : NerdCast
-Episodio #          : 291
-Titulo do Episodio  : NerdCast 291 - Especial RPG – O Duque, a Rosa e o Beholder
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_291_-_Especial_RPG___O_Duque__a_Rosa_e_o_Beholder.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_291_especial_rpg_2.mp3
-Tamanho do Arquivo  : 7.92 KiB
-
-Serie               : NerdCast
-Episodio #          : 290
-Titulo do Episodio  : NerdCast 290 - Sessão aventura da vida real
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_290_-_Sessao_aventura_da_vida_real.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_290_aventuras_da_vida.mp3
-Tamanho do Arquivo  : 5.37 KiB
-
-Serie               : NerdCast
-Episodio #          : 289
-Titulo do Episodio  : NerdCast 289 - Napoleão – Dividir e conquistar
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_289_-_Napoleao___Dividir_e_conquistar.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_289_napoleao.mp3
-Tamanho do Arquivo  : 6.58 KiB
-
-Serie               : NerdCast
 Episodio #          : 288
 Titulo do Episodio  : NerdCast 288 - Papo de gordo
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_288_-_Papo_de_gordo.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_288_papo_de_gordo.mp3
 Tamanho do Arquivo  : 5.55 KiB
-
-Serie               : NerdCast
-Episodio #          : 287
-Titulo do Episodio  : NerdCast 287 - Grandes inventores: Santos Dumont vs irmãos Wright
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_287_-_Grandes_inventores__Santos_Dumont_vs_irmaos_Wright.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_287_santos_dumont.mp3
-Tamanho do Arquivo  : 4.33 KiB
 
 Serie               : NerdCast
 Episodio #          : 286
@@ -1840,22 +640,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_284_baseball.mp
 Tamanho do Arquivo  : 4.81 KiB
 
 Serie               : NerdCast
-Episodio #          : 283
-Titulo do Episodio  : NerdCast 283 - Vírus, Bactérias e Macacos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_283_-_Virus__Bacterias_e_Macacos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_283_epidemias.mp3
-Tamanho do Arquivo  : 6.91 KiB
-
-Serie               : NerdCast
-Episodio #          : 282
-Titulo do Episodio  : NerdCast 282 - Tinha que ser o Chaves!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_282_-_Tinha_que_ser_o_Chaves_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_282_chaves.mp3
-Tamanho do Arquivo  : 5.04 KiB
-
-Serie               : NerdCast
 Episodio #          : 281
 Titulo do Episodio  : NerdCast 281 - Superstições, mandingas e farofa
 Diretorio Destino   : episodes/NerdCast
@@ -1872,38 +656,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_280_steve_jobs.
 Tamanho do Arquivo  : 4.35 KiB
 
 Serie               : NerdCast
-Episodio #          : 279
-Titulo do Episodio  : NerdCast 279 - Altas confusões na Alta Idade Média
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_279_-_Altas_confusoes_na_Alta_Idade_Media.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_279_alta_idade_media.mp3
-Tamanho do Arquivo  : 5.54 KiB
-
-Serie               : NerdCast
-Episodio #          : 278
-Titulo do Episodio  : NerdCast 278 - Profissão: Blogueiro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_278_-_Profissao__Blogueiro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_278_profissao_blogueiro.mp3
-Tamanho do Arquivo  : 5.05 KiB
-
-Serie               : NerdCast
-Episodio #          : 277
-Titulo do Episodio  : NerdCast 277 - A batalha dos crossovers 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_277_-_A_batalha_dos_crossovers_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_277_crossovers_2.mp3
-Tamanho do Arquivo  : 3.98 KiB
-
-Serie               : NerdCast
-Episodio #          : 276
-Titulo do Episodio  : NerdCast 276 - Filhos do Éden e o Spohrverso
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_276_-_Filhos_do_Eden_e_o_Spohrverso.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_276_filhos_do_eden.mp3
-Tamanho do Arquivo  : 6.66 KiB
-
-Serie               : NerdCast
 Episodio #          : 275
 Titulo do Episodio  : NerdCast 275 - Era uma vez num Rock in Rio…
 Diretorio Destino   : episodes/NerdCast
@@ -1912,60 +664,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_275_historias_d
 Tamanho do Arquivo  : 4.59 KiB
 
 Serie               : NerdCast
-Episodio #          : 274
-Titulo do Episodio  : NerdCast 274 - Gluglu Iéié, Porra!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_274_-_Gluglu_Ieie__Porra_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_274_pereio_e_mallandro.mp3
-Tamanho do Arquivo  : 2.78 KiB
-
-Serie               : NerdCast
-Episodio #          : 273
-Titulo do Episodio  : NerdCast 273 - A história da televisão
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_273_-_A_historia_da_televisao.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_273_historia_da_tv.mp3
-Tamanho do Arquivo  : 4.89 KiB
-
-Serie               : NerdCast
-Episodio #          : 272
-Titulo do Episodio  : NerdCast 272 - Nerdtour 2011 – O mundo não é o bastante
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_272_-_Nerdtour_2011___O_mundo_nao_e_o_bastante.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_272_nerdtour2011.mp3
-Tamanho do Arquivo  : 6.02 KiB
-
-Serie               : NerdCast
-Episodio #          : 271
-Titulo do Episodio  : NerdCast 271 - Profissão: Fotógrafo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_271_-_Profissao__Fotografo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_271_profissao_fotografo.mp3
-Tamanho do Arquivo  : 3.95 KiB
-
-Serie               : NerdCast
-Episodio #          : 270
-Titulo do Episodio  : NerdCast 270 - De nórdico e louco, todo mito tem um pouco
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_270_-_De_nordico_e_louco__todo_mito_tem_um_pouco.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_270_mitologia_nordica.mp3
-Tamanho do Arquivo  : 4.98 KiB
-
-Serie               : NerdCast
 Episodio #          : 269
 Titulo do Episodio  : NerdCast 269 - Star Trek – A Velha Nova Geração
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_269_-_Star_Trek___A_Velha_Nova_Geracao.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_269_startrek_tng.mp3
 Tamanho do Arquivo  : 5.24 KiB
-
-Serie               : NerdCast
-Episodio #          : 268
-Titulo do Episodio  : NerdCast 268 - Novos velhos games rebootados
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_268_-_Novos_velhos_games_rebootados.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_268_old_vs_new_games.mp3
-Tamanho do Arquivo  : 5.82 KiB
 
 Serie               : NerdCast
 Episodio #          : 267
@@ -2000,14 +704,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_264_rafinha_bas
 Tamanho do Arquivo  : 3.99 KiB
 
 Serie               : NerdCast
-Episodio #          : 263
-Titulo do Episodio  : NerdCast 263 - Especial Dia dos Namorados 2011
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_263_-_Especial_Dia_dos_Namorados_2011.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_263_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 5.80 KiB
-
-Serie               : NerdCast
 Episodio #          : 262
 Titulo do Episodio  : NerdCast 262 - Regra dos 15 anos – Filmes
 Diretorio Destino   : episodes/NerdCast
@@ -2016,52 +712,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_262_regra_15_an
 Tamanho do Arquivo  : 4.87 KiB
 
 Serie               : NerdCast
-Episodio #          : 261
-Titulo do Episodio  : NerdCast 261 - RPG – Uma arte de interpretação. Ou não.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_261_-_RPG___Uma_arte_de_interpretacao._Ou_nao..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_261_rpg_jogador.mp3
-Tamanho do Arquivo  : 5.19 KiB
-
-Serie               : NerdCast
-Episodio #          : 260
-Titulo do Episodio  : NerdCast 260 - A história das histórias em quadrinhos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_260_-_A_historia_das_historias_em_quadrinhos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_260_historia_dos_quadrinhos.mp3
-Tamanho do Arquivo  : 6.39 KiB
-
-Serie               : NerdCast
-Episodio #          : 259
-Titulo do Episodio  : NerdCast 259 - Osama não é Obama! Ou não!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_259_-_Osama_nao_e_Obama__Ou_nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_259_osama_e_obama.mp3
-Tamanho do Arquivo  : 3.29 KiB
-
-Serie               : NerdCast
 Episodio #          : 258
 Titulo do Episodio  : NerdCast 258 - A imprevisível Guerra dos Tronos
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_258_-_A_imprevisivel_Guerra_dos_Tronos.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_258_guerra_dos_tronos.mp3
 Tamanho do Arquivo  : 5.15 KiB
-
-Serie               : NerdCast
-Episodio #          : 257
-Titulo do Episodio  : NerdCast 257 - O Dia D
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_257_-_O_Dia_D.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_257_dia_d.mp3
-Tamanho do Arquivo  : 4.28 KiB
-
-Serie               : NerdCast
-Episodio #          : 256
-Titulo do Episodio  : NerdCast 256 - Cegos, nerds e loucos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_256_-_Cegos__nerds_e_loucos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_256_cegos_nerds_e_loucos.mp3
-Tamanho do Arquivo  : 3.62 KiB
 
 Serie               : NerdCast
 Episodio #          : 255
@@ -2088,44 +744,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_253_malhacao.mp
 Tamanho do Arquivo  : 4.23 KiB
 
 Serie               : NerdCast
-Episodio #          : 252
-Titulo do Episodio  : NerdCast 252 - O que que o Anime tem? Tem!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_252_-_O_que_que_o_Anime_tem__Tem_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_252_anime_no_brasil.mp3
-Tamanho do Arquivo  : 4.48 KiB
-
-Serie               : NerdCast
-Episodio #          : 251
-Titulo do Episodio  : NerdCast 251 - Especial RPG – O Bruxo, a Princesa e o Dragão
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_251_-_Especial_RPG___O_Bruxo__a_Princesa_e_o_Dragao.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_251_especial_rpg.mp3
-Tamanho do Arquivo  : 5.83 KiB
-
-Serie               : NerdCast
 Episodio #          : 250
 Titulo do Episodio  : NerdCast 250 - O Melhor de 250 Nerdcasts!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_250_-_O_Melhor_de_250_Nerdcasts_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_250_melhores250.mp3
 Tamanho do Arquivo  : 7.76 KiB
-
-Serie               : NerdCast
-Episodio #          : 249
-Titulo do Episodio  : NerdCast 249 - Evolução artificial da Seleção Natural
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_249_-_Evolucao_artificial_da_Selecao_Natural.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_249_selecao_natural.mp3
-Tamanho do Arquivo  : 5.73 KiB
-
-Serie               : NerdCast
-Episodio #          : 248
-Titulo do Episodio  : NerdCast 248 - A batalha dos crossovers
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_248_-_A_batalha_dos_crossovers.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_248_crossovers.mp3
-Tamanho do Arquivo  : 4.23 KiB
 
 Serie               : NerdCast
 Episodio #          : 247
@@ -2144,38 +768,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_246_seducao_fem
 Tamanho do Arquivo  : 3.88 KiB
 
 Serie               : NerdCast
-Episodio #          : 245
-Titulo do Episodio  : NerdCast 245 - Tokusatsu e não abro!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_245_-_Tokusatsu_e_nao_abro_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_245_tokusatsu.mp3
-Tamanho do Arquivo  : 4.18 KiB
-
-Serie               : NerdCast
-Episodio #          : 244
-Titulo do Episodio  : NerdCast 244 - A alvorada da Era Nuclear
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_244_-_A_alvorada_da_Era_Nuclear.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_244_era_nuclear.mp3
-Tamanho do Arquivo  : 4.18 KiB
-
-Serie               : NerdCast
-Episodio #          : 242
-Titulo do Episodio  : NerdCast 242 - A voz imortal de Orlando Drummond
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_242_-_A_voz_imortal_de_Orlando_Drummond.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_242_orlando_drummond.mp3
-Tamanho do Arquivo  : 2.43 KiB
-
-Serie               : NerdCast
-Episodio #          : 241
-Titulo do Episodio  : NerdCast 241 - Como o Grinch roubou o Nerdcast de Natal
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_241_-_Como_o_Grinch_roubou_o_Nerdcast_de_Natal.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_de_natal_roubado.mp3
-Tamanho do Arquivo  : 742.00 B
-
-Serie               : NerdCast
 Episodio #          : 241
 Titulo do Episodio  : NerdCast 241 - Isso é uma furada!
 Diretorio Destino   : episodes/NerdCast
@@ -2190,14 +782,6 @@ Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_240_-_Que_fim_levou__.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_240_celebridades_esquecidas.mp3
 Tamanho do Arquivo  : 4.90 KiB
-
-Serie               : NerdCast
-Episodio #          : 239
-Titulo do Episodio  : NerdCast 239 - Tron, a realidade virtual e tudo mais
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_239_-_Tron__a_realidade_virtual_e_tudo_mais.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_239_tron.mp3
-Tamanho do Arquivo  : 4.23 KiB
 
 Serie               : NerdCast
 Episodio #          : 238
@@ -2216,100 +800,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_237_pegacao.mp3
 Tamanho do Arquivo  : 4.15 KiB
 
 Serie               : NerdCast
-Episodio #          : 236
-Titulo do Episodio  : NerdCast 236 - Os The Beatles
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_236_-_Os_The_Beatles.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_236_beatles.mp3
-Tamanho do Arquivo  : 5.57 KiB
-
-Serie               : NerdCast
-Episodio #          : 235
-Titulo do Episodio  : NerdCast 235a - Battlestar Galactica – Inteligência Artificial Emocional
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_235a_-_Battlestar_Galactica___Inteligencia_Artificial_Emocional.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_235a_battlestar_galactica.mp3
-Tamanho do Arquivo  : 4.40 KiB
-
-Serie               : NerdCast
-Episodio #          : 235
-Titulo do Episodio  : NerdCast 235b - Battlestar Galactica – Deus ex Machina
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_235b_-_Battlestar_Galactica___Deus_ex_Machina.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_235b_battlestar_galactica.mp3
-Tamanho do Arquivo  : 3.44 KiB
-
-Serie               : NerdCast
-Episodio #          : 234
-Titulo do Episodio  : NerdCast 234 - ¡Cuba libre! Pero no mucho
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_234_-__Cuba_libre__Pero_no_mucho.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_234_revolucao_cubana.mp3
-Tamanho do Arquivo  : 5.00 KiB
-
-Serie               : NerdCast
-Episodio #          : 233
-Titulo do Episodio  : NerdCast 233 - Tropa de Elite 2 – Pé na porta, CPI na cara!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_233_-_Tropa_de_Elite_2___Pe_na_porta__CPI_na_cara_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_233_tropa_de_elite_2.mp3
-Tamanho do Arquivo  : 4.32 KiB
-
-Serie               : NerdCast
-Episodio #          : 232
-Titulo do Episodio  : NerdCast 232 - Dragões, monstros e o impronunciável Cthulhu
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_232_-_Dragoes__monstros_e_o_impronunciavel_Cthulhu.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_232_dragoes_e_monstros.mp3
-Tamanho do Arquivo  : 3.80 KiB
-
-Serie               : NerdCast
-Episodio #          : 231
-Titulo do Episodio  : NerdCast 231 - Paulo Coelho – Nerdcast com o Mago
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_231_-_Paulo_Coelho___Nerdcast_com_o_Mago.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_231_paulo_coelho.mp3
-Tamanho do Arquivo  : 4.62 KiB
-
-Serie               : NerdCast
 Episodio #          : 230
 Titulo do Episodio  : NerdCast 230 - Deseducação financeira
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_230_-_Deseducacao_financeira.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_230_mercado_financeiro_3.mp3
 Tamanho do Arquivo  : 3.91 KiB
-
-Serie               : NerdCast
-Episodio #          : 229
-Titulo do Episodio  : NerdCast 229 - Duplipensamentos sobre 1984
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_229_-_Duplipensamentos_sobre_1984.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_229_1984.mp3
-Tamanho do Arquivo  : 5.62 KiB
-
-Serie               : NerdCast
-Episodio #          : 228
-Titulo do Episodio  : NerdCast 228 - Profissão: Mago dos Efeitos Visuais
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_228_-_Profissao__Mago_dos_Efeitos_Visuais.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_228_computacao_grafica.mp3
-Tamanho do Arquivo  : 4.37 KiB
-
-Serie               : NerdCast
-Episodio #          : 227
-Titulo do Episodio  : NerdCast 227 - As dunas de Duna
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_227_-_As_dunas_de_Duna.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_227_duna.mp3
-Tamanho do Arquivo  : 4.40 KiB
-
-Serie               : NerdCast
-Episodio #          : 226
-Titulo do Episodio  : NerdCast 226 - Sociedade Secreta S.A.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_226_-_Sociedade_Secreta_S.A..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_226_sociedades_secretas.mp3
-Tamanho do Arquivo  : 3.35 KiB
 
 Serie               : NerdCast
 Episodio #          : 225
@@ -2328,14 +824,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_224_a_origem.mp
 Tamanho do Arquivo  : 4.80 KiB
 
 Serie               : NerdCast
-Episodio #          : 223
-Titulo do Episodio  : NerdCast 223 - Mercenários brucutus indispensáveis
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_223_-_Mercenarios_brucutus_indispensaveis.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_223_mercenarios.mp3
-Tamanho do Arquivo  : 4.10 KiB
-
-Serie               : NerdCast
 Episodio #          : 222
 Titulo do Episodio  : NerdCast 222 - Nerdtour 2010 – Nobody tell nothing
 Diretorio Destino   : episodes/NerdCast
@@ -2352,68 +840,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_221_novelas_ano
 Tamanho do Arquivo  : 3.60 KiB
 
 Serie               : NerdCast
-Episodio #          : 220
-Titulo do Episodio  : NerdCast 220 - Star Wars – A carteira e o universo expandido de Lucas
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_220_-_Star_Wars___A_carteira_e_o_universo_expandido_de_Lucas.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_220_starwars_ue.mp3
-Tamanho do Arquivo  : 4.33 KiB
-
-Serie               : NerdCast
 Episodio #          : 219
 Titulo do Episodio  : NerdCast 219 - Lost: Desabafo!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_219_-_Lost__Desabafo_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_219_lost.mp3
 Tamanho do Arquivo  : 4.94 KiB
-
-Serie               : NerdCast
-Episodio #          : 218
-Titulo do Episodio  : NerdCast 218 - Malandro é malandro, mané é mané
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_218_-_Malandro_e_malandro__mane_e_mane.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_218_trambiques.mp3
-Tamanho do Arquivo  : 4.05 KiB
-
-Serie               : NerdCast
-Episodio #          : 217
-Titulo do Episodio  : NerdCast 217 - As eleições da internet. Ou não.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_217_-_As_eleicoes_da_internet._Ou_nao..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_217_eleicoes_na_internet.mp3
-Tamanho do Arquivo  : 5.22 KiB
-
-Serie               : NerdCast
-Episodio #          : 216
-Titulo do Episodio  : NerdCast 216 - Grandes Inventores: Edison X Tesla
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_216_-_Grandes_Inventores__Edison_X_Tesla.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_216_edison_tesla.mp3
-Tamanho do Arquivo  : 4.56 KiB
-
-Serie               : NerdCast
-Episodio #          : 215
-Titulo do Episodio  : NerdCast 215 - Profissão: Autor
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_215_-_Profissao__Autor.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_215_profissao_autor.mp3
-Tamanho do Arquivo  : 6.17 KiB
-
-Serie               : NerdCast
-Episodio #          : 214
-Titulo do Episodio  : NerdCast 214 - Copa 2010 – Cala Boca, Galvão!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_214_-_Copa_2010___Cala_Boca__Galvao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_214_copa_do_mundo.mp3
-Tamanho do Arquivo  : 3.80 KiB
-
-Serie               : NerdCast
-Episodio #          : 213
-Titulo do Episodio  : NerdCast 213 - Especial Dia dos Namorados 2010
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_213_-_Especial_Dia_dos_Namorados_2010.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_213_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 6.22 KiB
 
 Serie               : NerdCast
 Episodio #          : 212
@@ -2472,44 +904,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_206_historias_d
 Tamanho do Arquivo  : 4.47 KiB
 
 Serie               : NerdCast
-Episodio #          : 205
-Titulo do Episodio  : NerdCast 205 - Teogonia da Mitologia Grega
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_205_-_Teogonia_da_Mitologia_Grega.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_205a_mitologia_grega.mp3
-Tamanho do Arquivo  : 4.28 KiB
-
-Serie               : NerdCast
-Episodio #          : 205
-Titulo do Episodio  : NerdCast 205 - Homens e Monstros da Mitologia Grega
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_205_-_Homens_e_Monstros_da_Mitologia_Grega.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_205b_mitologia_grega.mp3
-Tamanho do Arquivo  : 3.90 KiB
-
-Serie               : NerdCast
 Episodio #          : 204
 Titulo do Episodio  : NerdCast 204 - Clássicos da Sessão da Tarde – Aventuras
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_204_-_Classicos_da_Sessao_da_Tarde___Aventuras.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_204_sessaodatarde_aventuras.mp3
 Tamanho do Arquivo  : 4.12 KiB
-
-Serie               : NerdCast
-Episodio #          : 202
-Titulo do Episodio  : NerdCast 202 - Montanhas, roletas e revoluções russas
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_202_-_Montanhas__roletas_e_revolucoes_russas.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_202_revolucao_russa.mp3
-Tamanho do Arquivo  : 4.32 KiB
-
-Serie               : NerdCast
-Episodio #          : 201
-Titulo do Episodio  : NerdCast 201 - Wendel Bezerra está pronto!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_201_-_Wendel_Bezerra_esta_pronto_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_201_wendel_bezerra.mp3
-Tamanho do Arquivo  : 3.71 KiB
 
 Serie               : NerdCast
 Episodio #          : 200
@@ -2520,14 +920,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_200_melhores200
 Tamanho do Arquivo  : 6.54 KiB
 
 Serie               : NerdCast
-Episodio #          : 199
-Titulo do Episodio  : NerdCast 199 - Star Wars – O Retorno de… dos… do… para o Jedi
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_199_-_Star_Wars___O_Retorno_de__dos__do__para_o_Jedi.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_199_starwars_episodio6.mp3
-Tamanho do Arquivo  : 4.19 KiB
-
-Serie               : NerdCast
 Episodio #          : 198
 Titulo do Episodio  : NerdCast 198 - Star Trek – A fronteira alternativa
 Diretorio Destino   : episodes/NerdCast
@@ -2536,76 +928,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_198_star_trek.m
 Tamanho do Arquivo  : 4.62 KiB
 
 Serie               : NerdCast
-Episodio #          : 197
-Titulo do Episodio  : NerdCast 197 - O sobrenatural ecziste! Ou não!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_197_-_O_sobrenatural_ecziste__Ou_nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_197_sobrenatural.mp3
-Tamanho do Arquivo  : 3.55 KiB
-
-Serie               : NerdCast
-Episodio #          : 196
-Titulo do Episodio  : NerdCast 196 - RPG – Quem é o Mestre?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_196_-_RPG___Quem_e_o_Mestre_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_196_rpg_mestre.mp3
-Tamanho do Arquivo  : 4.24 KiB
-
-Serie               : NerdCast
-Episodio #          : 195
-Titulo do Episodio  : NerdCast 195 - Quem fez a internet
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_195_-_Quem_fez_a_internet.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_195_historia_da_internet.mp3
-Tamanho do Arquivo  : 4.65 KiB
-
-Serie               : NerdCast
 Episodio #          : 194
 Titulo do Episodio  : NerdCast 194 - Martin Scorsese e seus bons companheiros
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_194_-_Martin_Scorsese_e_seus_bons_companheiros.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_194_martin_scorsese.mp3
 Tamanho do Arquivo  : 5.95 KiB
-
-Serie               : NerdCast
-Episodio #          : 193
-Titulo do Episodio  : NerdCast 193 - Skxawng’si Avatar
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_193_-_Skxawng_si_Avatar.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_193_avatar.mp3
-Tamanho do Arquivo  : 4.35 KiB
-
-Serie               : NerdCast
-Episodio #          : 192
-Titulo do Episodio  : NerdCast 192a - O Senhor dos Anéis: A Sociedade do Anel
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_192a_-_O_Senhor_dos_Aneis__A_Sociedade_do_Anel.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_192a_senhor_dos_aneis_1.mp3
-Tamanho do Arquivo  : 4.85 KiB
-
-Serie               : NerdCast
-Episodio #          : 192
-Titulo do Episodio  : NerdCast 192b - O Senhor dos Anéis: As Duas Torres
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_192b_-_O_Senhor_dos_Aneis__As_Duas_Torres.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_192b_senhor_dos_aneis_2.mp3
-Tamanho do Arquivo  : 4.26 KiB
-
-Serie               : NerdCast
-Episodio #          : 192
-Titulo do Episodio  : NerdCast 192c - O Senhor dos Anéis: O Retorno do Rei
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_192c_-_O_Senhor_dos_Aneis__O_Retorno_do_Rei.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_192c_senhor_dos_aneis_3.mp3
-Tamanho do Arquivo  : 4.98 KiB
-
-Serie               : NerdCast
-Episodio #          : 191
-Titulo do Episodio  : NerdCast 191 - Os santos pecados das Cruzadas
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_191_-_Os_santos_pecados_das_Cruzadas.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_191_cruzadas.mp3
-Tamanho do Arquivo  : 4.88 KiB
 
 Serie               : NerdCast
 Episodio #          : 190
@@ -2622,38 +950,6 @@ Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_189_-_Beleza_e_um_estado_de_espirito__de_porco.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_189_beleza_e_estetica.mp3
 Tamanho do Arquivo  : 4.81 KiB
-
-Serie               : NerdCast
-Episodio #          : 188
-Titulo do Episodio  : NerdCast 188 - Histórias de emigrantes
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_188_-_Historias_de_emigrantes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_188_emigrantes.mp3
-Tamanho do Arquivo  : 3.43 KiB
-
-Serie               : NerdCast
-Episodio #          : 187
-Titulo do Episodio  : NerdCast 187 - Um monte de Sandices sobre 2012
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_187_-_Um_monte_de_Sandices_sobre_2012.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_187_2012.mp3
-Tamanho do Arquivo  : 3.84 KiB
-
-Serie               : NerdCast
-Episodio #          : 186
-Titulo do Episodio  : NerdCast 186 - Isaac Asimov e seus escravos tchecos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_186_-_Isaac_Asimov_e_seus_escravos_tchecos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_186_isaac_asimov.mp3
-Tamanho do Arquivo  : 6.63 KiB
-
-Serie               : NerdCast
-Episodio #          : 185
-Titulo do Episodio  : NerdCast 185 - Histórias do Brasil: Ditadura Militar
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_185_-_Historias_do_Brasil__Ditadura_Militar.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_185_ditadura_militar.mp3
-Tamanho do Arquivo  : 4.04 KiB
 
 Serie               : NerdCast
 Episodio #          : 184
@@ -2688,52 +984,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_182_casamento.m
 Tamanho do Arquivo  : 5.29 KiB
 
 Serie               : NerdCast
-Episodio #          : 181
-Titulo do Episodio  : NerdCast 181 - Nerdcast para Não-Humanos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_181_-_Nerdcast_para_Nao-Humanos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_181_alienigenas.mp3
-Tamanho do Arquivo  : 4.36 KiB
-
-Serie               : NerdCast
-Episodio #          : 180
-Titulo do Episodio  : NerdCast 180 - Na crista da onda com Marcello Serpa
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_180_-_Na_crista_da_onda_com_Marcello_Serpa.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_180_marcello_serpa.mp3
-Tamanho do Arquivo  : 3.49 KiB
-
-Serie               : NerdCast
-Episodio #          : 179
-Titulo do Episodio  : NerdCast 179 - Nizo Neto – Divirjo, Nerd!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_179_-_Nizo_Neto___Divirjo__Nerd_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_179_nizo_neto.mp3
-Tamanho do Arquivo  : 3.90 KiB
-
-Serie               : NerdCast
 Episodio #          : 178
 Titulo do Episodio  : NerdCast 178 - Conspirações em 11 de setembro
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_178_-_Conspiracoes_em_11_de_setembro.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_178_11_de_setembro.mp3
 Tamanho do Arquivo  : 4.08 KiB
-
-Serie               : NerdCast
-Episodio #          : 177
-Titulo do Episodio  : NerdCast 177 - A fúria mongol de Gêngis Khan
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_177_-_A_furia_mongol_de_Gengis_Khan.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_177_gengis_khan.mp3
-Tamanho do Arquivo  : 4.37 KiB
-
-Serie               : NerdCast
-Episodio #          : 176
-Titulo do Episodio  : NerdCast 176 - Brinquedos dos anos 80 – Parte 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_176_-_Brinquedos_dos_anos_80___Parte_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_176_brinquedosanos80_2.mp3
-Tamanho do Arquivo  : 4.06 KiB
 
 Serie               : NerdCast
 Episodio #          : 175
@@ -2744,52 +1000,12 @@ Arquivo Original    :
 Tamanho do Arquivo  : 100.00 B
 
 Serie               : NerdCast
-Episodio #          : 174
-Titulo do Episodio  : NerdCast 174 - Lanterna Verde e o arco-íris de energia
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_174_-_Lanterna_Verde_e_o_arco-iris_de_energia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_174_lanterna_verde.mp3
-Tamanho do Arquivo  : 3.34 KiB
-
-Serie               : NerdCast
-Episodio #          : 173
-Titulo do Episodio  : NerdCast 173 - O último a chegar na Lua é mulher do padre
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_173_-_O_ultimo_a_chegar_na_Lua_e_mulher_do_padre.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_173_corrida_espacial.mp3
-Tamanho do Arquivo  : 4.93 KiB
-
-Serie               : NerdCast
-Episodio #          : 172
-Titulo do Episodio  : NerdCast 172 - Histórias do Brasil: Império
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_172_-_Historias_do_Brasil__Imperio.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_172_brasil_imperial.mp3
-Tamanho do Arquivo  : 4.09 KiB
-
-Serie               : NerdCast
 Episodio #          : 171
 Titulo do Episodio  : NerdCast 171 - Isso é coisa de f#dido!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_171_-_Isso_e_coisa_de_f_dido_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_171_coisa_de_fdido.mp3
 Tamanho do Arquivo  : 4.42 KiB
-
-Serie               : NerdCast
-Episodio #          : 170
-Titulo do Episodio  : NerdCast 170 - As vozes de Fernanda Fernandes
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_170_-_As_vozes_de_Fernanda_Fernandes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_170_fernanda_fernandes.mp3
-Tamanho do Arquivo  : 3.64 KiB
-
-Serie               : NerdCast
-Episodio #          : 169
-Titulo do Episodio  : NerdCast 169 - Profissão: Publicitário
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_169_-_Profissao__Publicitario.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_169_profissao_publicitario.mp3
-Tamanho do Arquivo  : 3.49 KiB
 
 Serie               : NerdCast
 Episodio #          : 168
@@ -2808,76 +1024,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_168b_lost.mp3
 Tamanho do Arquivo  : 4.64 KiB
 
 Serie               : NerdCast
-Episodio #          : 167
-Titulo do Episodio  : NerdCast 167 - Nerds do Asfalto M.C.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_167_-_Nerds_do_Asfalto_M.C..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_167_motocicletas.mp3
-Tamanho do Arquivo  : 3.31 KiB
-
-Serie               : NerdCast
-Episodio #          : 166
-Titulo do Episodio  : NerdCast 166 - Star Wars – O Império Contra “Taca”
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_166_-_Star_Wars___O_Imperio_Contra__Taca_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_166_starwars_episodio5.mp3
-Tamanho do Arquivo  : 4.50 KiB
-
-Serie               : NerdCast
-Episodio #          : 165
-Titulo do Episodio  : NerdCast 165 - Especial Dia dos Namorados
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_165_-_Especial_Dia_dos_Namorados.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_165_dia_dos_namorados.mp3
-Tamanho do Arquivo  : 5.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 164
-Titulo do Episodio  : NerdCast 164 - Terminator: Nerdcast Day
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_164_-_Terminator__Nerdcast_Day.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_164_terminator.mp3
-Tamanho do Arquivo  : 4.48 KiB
-
-Serie               : NerdCast
-Episodio #          : 163
-Titulo do Episodio  : NerdCast 163 - Profissão: Cineasta
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_163_-_Profissao__Cineasta.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_163_profissao_cineasta.mp3
-Tamanho do Arquivo  : 3.60 KiB
-
-Serie               : NerdCast
-Episodio #          : 162
-Titulo do Episodio  : NerdCast 162 - Máquinas de guerra – Antiguidade
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_162_-_Maquinas_de_guerra___Antiguidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_162_maquinas_de_guerra.mp3
-Tamanho do Arquivo  : 4.16 KiB
-
-Serie               : NerdCast
-Episodio #          : 161
-Titulo do Episodio  : NerdCast 161 - @nerdcast em 140 caracteres #twitter
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_161_-__nerdcast_em_140_caracteres__twitter.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_161_twitter.mp3
-Tamanho do Arquivo  : 3.64 KiB
-
-Serie               : NerdCast
 Episodio #          : 160
 Titulo do Episodio  : NerdCast 160 - Nerd Rico, Nerd Pobre 2
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_160_-_Nerd_Rico__Nerd_Pobre_2.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_160_mercado_financeiro_2.mp3
 Tamanho do Arquivo  : 4.72 KiB
-
-Serie               : NerdCast
-Episodio #          : 159
-Titulo do Episodio  : NerdCast 159 - Wolverine, Caolho ou Carcará?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_159_-_Wolverine__Caolho_ou_Carcara_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_159_wolverine.mp3
-Tamanho do Arquivo  : 3.89 KiB
 
 Serie               : NerdCast
 Episodio #          : 158
@@ -2888,28 +1040,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_158_coisa_de_ma
 Tamanho do Arquivo  : 4.23 KiB
 
 Serie               : NerdCast
-Episodio #          : 157
-Titulo do Episodio  : NerdCast 157 - Mafia, Omertà e Vendetta!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_157_-_Mafia__Omerta_e_Vendetta_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_157_mafia_italiana.mp3
-Tamanho do Arquivo  : 4.57 KiB
-
-Serie               : NerdCast
 Episodio #          : 156
 Titulo do Episodio  : NerdCast 156 - Matrix Repercutions
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_156_-_Matrix_Repercutions.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_156_matrix.mp3
 Tamanho do Arquivo  : 5.13 KiB
-
-Serie               : NerdCast
-Episodio #          : 155
-Titulo do Episodio  : NerdCast 155 - RPG – D&D e as regras da casa
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_155_-_RPG___D_D_e_as_regras_da_casa.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_155_rpg_dnd.mp3
-Tamanho do Arquivo  : 4.15 KiB
 
 Serie               : NerdCast
 Episodio #          : 154
@@ -2920,68 +1056,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_154_coisas_irri
 Tamanho do Arquivo  : 3.64 KiB
 
 Serie               : NerdCast
-Episodio #          : 153
-Titulo do Episodio  : NerdCast 153 - Monty Python e o Nerdcast Sagrado
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_153_-_Monty_Python_e_o_Nerdcast_Sagrado.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_153_monty_python.mp3
-Tamanho do Arquivo  : 3.88 KiB
-
-Serie               : NerdCast
-Episodio #          : 152
-Titulo do Episodio  : NerdCast 152 - Nobres Diplomatas!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_152_-_Nobres_Diplomatas_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_152_diplomatas.mp3
-Tamanho do Arquivo  : 3.65 KiB
-
-Serie               : NerdCast
-Episodio #          : 151
-Titulo do Episodio  : NerdCast 151 - Who Watches the Watchmen? Whatever!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_151_-_Who_Watches_the_Watchmen__Whatever_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_151_watchmen.mp3
-Tamanho do Arquivo  : 3.85 KiB
-
-Serie               : NerdCast
 Episodio #          : 150
 Titulo do Episodio  : NerdCast 150 - O Melhor de 150 Nerdcasts!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_150_-_O_Melhor_de_150_Nerdcasts_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_150_melhores150.mp3
 Tamanho do Arquivo  : 4.62 KiB
-
-Serie               : NerdCast
-Episodio #          : 149
-Titulo do Episodio  : NerdCast 149 - Oscar – Em 2009, o Nerdcast vai para…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_149_-_Oscar___Em_2009__o_Nerdcast_vai_para_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_149_oscar2009.mp3
-Tamanho do Arquivo  : 3.56 KiB
-
-Serie               : NerdCast
-Episodio #          : 148
-Titulo do Episodio  : NerdCast 148 - Operação Valquíria
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_148_-_Operacao_Valquiria.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_148_operacao_valquiria.mp3
-Tamanho do Arquivo  : 4.08 KiB
-
-Serie               : NerdCast
-Episodio #          : 147
-Titulo do Episodio  : NerdCast 147 - Heroes: Salve-se quem puder!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_147_-_Heroes__Salve-se_quem_puder_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_147_heroes.mp3
-Tamanho do Arquivo  : 3.57 KiB
-
-Serie               : NerdCast
-Episodio #          : 146
-Titulo do Episodio  : NerdCast 146 - Profissão: Aviador
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_146_-_Profissao__Aviador.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_146_profissao_aviador.mp3
-Tamanho do Arquivo  : 4.57 KiB
 
 Serie               : NerdCast
 Episodio #          : 145
@@ -2992,28 +1072,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_145_marketing_d
 Tamanho do Arquivo  : 3.42 KiB
 
 Serie               : NerdCast
-Episodio #          : 144
-Titulo do Episodio  : NerdCast 144 - A História da Terra
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_144_-_A_Historia_da_Terra.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_144_historia_da_terra.mp3
-Tamanho do Arquivo  : 4.34 KiB
-
-Serie               : NerdCast
 Episodio #          : 143
 Titulo do Episodio  : NerdCast 143 - Nerds, Geeks e Freaks
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_143_-_Nerds__Geeks_e_Freaks.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_143_nerds_geeks_freaks.mp3
 Tamanho do Arquivo  : 4.82 KiB
-
-Serie               : NerdCast
-Episodio #          : 142
-Titulo do Episodio  : NerdCast 142 - Retrospectiva Nerd 2008
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_142_-_Retrospectiva_Nerd_2008.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_142_retrospectiva2008.mp3
-Tamanho do Arquivo  : 3.51 KiB
 
 Serie               : NerdCast
 Episodio #          : 141
@@ -3024,60 +1088,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_141_historias_d
 Tamanho do Arquivo  : 3.52 KiB
 
 Serie               : NerdCast
-Episodio #          : 140
-Titulo do Episodio  : NerdCast 140 - Os Maiores Vilões do Cinema, Ou Não!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_140_-_Os_Maiores_Viloes_do_Cinema__Ou_Nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_140_viloesdocinema.mp3
-Tamanho do Arquivo  : 3.52 KiB
-
-Serie               : NerdCast
-Episodio #          : 139
-Titulo do Episodio  : NerdCast 139 - 1ª Guerra Mundial
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_139_-_1__Guerra_Mundial.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_139_1a_guerra_mundial.mp3
-Tamanho do Arquivo  : 4.21 KiB
-
-Serie               : NerdCast
 Episodio #          : 138
 Titulo do Episodio  : NerdCast 138 - Simplesmente um luxo, meu amooor!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_138_-_Simplesmente_um_luxo__meu_amooor_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_138_simplesmenteumluxo.mp3
 Tamanho do Arquivo  : 4.40 KiB
-
-Serie               : NerdCast
-Episodio #          : 137
-Titulo do Episodio  : NerdCast 137 - Entrevista com Cazé Pecini – As Sensacionais Buzinadas de Cazé
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_137_-_Entrevista_com_Caze_Pecini___As_Sensacionais_Buzinadas_de_Caze.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_137_caze.mp3
-Tamanho do Arquivo  : 4.14 KiB
-
-Serie               : NerdCast
-Episodio #          : 136
-Titulo do Episodio  : NerdCast 136 - Teoria da Conspiração – Códigos, Experimentos e Polígonos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_136_-_Teoria_da_Conspiracao___Codigos__Experimentos_e_Poligonos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_136_teoriadaconspiracao3.mp3
-Tamanho do Arquivo  : 3.45 KiB
-
-Serie               : NerdCast
-Episodio #          : 135
-Titulo do Episodio  : NerdCast 135 - Profissão: Ilustrador
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_135_-_Profissao__Ilustrador.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_135_profissao_ilustrador.mp3
-Tamanho do Arquivo  : 4.22 KiB
-
-Serie               : NerdCast
-Episodio #          : 134
-Titulo do Episodio  : NerdCast 134 - Eu Sei Kung-Fu… Ou Não!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_134_-_Eu_Sei_Kung-Fu__Ou_Nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_134_artesmarciais.mp3
-Tamanho do Arquivo  : 3.86 KiB
 
 Serie               : NerdCast
 Episodio #          : 133
@@ -3096,44 +1112,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_132_historiasde
 Tamanho do Arquivo  : 3.50 KiB
 
 Serie               : NerdCast
-Episodio #          : 131
-Titulo do Episodio  : NerdCast 131 - Anatomia dos Serial Killers
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_131_-_Anatomia_dos_Serial_Killers.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_131_serialkillers.mp3
-Tamanho do Arquivo  : 4.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 130
-Titulo do Episodio  : NerdCast 130 - Eleições: o Branco, o Nulo e o Palhaço
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_130_-_Eleicoes__o_Branco__o_Nulo_e_o_Palhaco.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_130_eleicoes.mp3
-Tamanho do Arquivo  : 4.35 KiB
-
-Serie               : NerdCast
 Episodio #          : 129
 Titulo do Episodio  : NerdCast 129 - Os Piratas do Vale do Silício
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_129_-_Os_Piratas_do_Vale_do_Silicio.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_129_apple_microsoft.mp3
 Tamanho do Arquivo  : 4.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 128
-Titulo do Episodio  : NerdCast 128 - Os Trapalhões, Cacildis!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_128_-_Os_Trapalhoes__Cacildis_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_128_trapalhoes.mp3
-Tamanho do Arquivo  : 4.35 KiB
-
-Serie               : NerdCast
-Episodio #          : 127
-Titulo do Episodio  : NerdCast 127 - O Hobbit – Lá e de volta outra vez
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_127_-_O_Hobbit___La_e_de_volta_outra_vez.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_127_hobbit.mp3
-Tamanho do Arquivo  : 3.94 KiB
 
 Serie               : NerdCast
 Episodio #          : 126
@@ -3152,68 +1136,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_125_novelasanos
 Tamanho do Arquivo  : 4.17 KiB
 
 Serie               : NerdCast
-Episodio #          : 124
-Titulo do Episodio  : NerdCast 124 - A Maldição de Zé do Caixão – Entrevista com José Mojica Marins
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_124_-_A_Maldicao_de_Ze_do_Caixao___Entrevista_com_Jose_Mojica_Marins.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_124_zedocaixao.mp3
-Tamanho do Arquivo  : 3.95 KiB
-
-Serie               : NerdCast
 Episodio #          : 123
 Titulo do Episodio  : NerdCast 123 - Eu continuo desgraçado da minha cabeça!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_123_-_Eu_continuo_desgracado_da_minha_cabeca_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_123_coisasirritantes2.mp3
 Tamanho do Arquivo  : 4.19 KiB
-
-Serie               : NerdCast
-Episodio #          : 122
-Titulo do Episodio  : NerdCast 122 - Olimpíadas: A Tocha, o Ouro e a “Pataguada”
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_122_-_Olimpiadas__A_Tocha__o_Ouro_e_a__Pataguada_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_122_olimpiadas.mp3
-Tamanho do Arquivo  : 3.85 KiB
-
-Serie               : NerdCast
-Episodio #          : 121
-Titulo do Episodio  : NerdCast 121 - Nostalgia Animada – Parte 02
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_121_-_Nostalgia_Animada___Parte_02.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_121_desenhosanos80_2.mp3
-Tamanho do Arquivo  : 4.30 KiB
-
-Serie               : NerdCast
-Episodio #          : 120
-Titulo do Episodio  : NerdCast 120 - Batman no Cinema
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_120_-_Batman_no_Cinema.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_120_batmancinema.mp3
-Tamanho do Arquivo  : 5.10 KiB
-
-Serie               : NerdCast
-Episodio #          : 119
-Titulo do Episodio  : NerdCast 119 - Batman nos Quadrinhos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_119_-_Batman_nos_Quadrinhos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_119_batmanquadrinhos.mp3
-Tamanho do Arquivo  : 4.86 KiB
-
-Serie               : NerdCast
-Episodio #          : 118
-Titulo do Episodio  : NerdCast 118 - A Guerra do Vietnã
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_118_-_A_Guerra_do_Vietna.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_118_guerradovietna.mp3
-Tamanho do Arquivo  : 4.85 KiB
-
-Serie               : NerdCast
-Episodio #          : 117
-Titulo do Episodio  : NerdCast 117 - Brinquedos dos anos 80 – Parte 1
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_117_-_Brinquedos_dos_anos_80___Parte_1.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_117_brinquedosanos80_1.mp3
-Tamanho do Arquivo  : 3.58 KiB
 
 Serie               : NerdCast
 Episodio #          : 116
@@ -3232,124 +1160,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_116b_lost.mp3
 Tamanho do Arquivo  : 3.99 KiB
 
 Serie               : NerdCast
-Episodio #          : 115
-Titulo do Episodio  : NerdCast 115 - HULK ESMAGA NERDCAST!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_115_-_HULK_ESMAGA_NERDCAST_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_115_hulk.mp3
-Tamanho do Arquivo  : 4.63 KiB
-
-Serie               : NerdCast
-Episodio #          : 114
-Titulo do Episodio  : NerdCast 114 - Rock n’ Roll – 50/60/70
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_114_-_Rock_n__Roll___50_60_70.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_114_rock_50-60-70.mp3
-Tamanho do Arquivo  : 4.74 KiB
-
-Serie               : NerdCast
-Episodio #          : 113
-Titulo do Episodio  : NerdCast 113a - Indiana Jones e os Caçadores do Nerdcast Perdido
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_113a_-_Indiana_Jones_e_os_Cacadores_do_Nerdcast_Perdido.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_113a_indianajones.mp3
-Tamanho do Arquivo  : 5.76 KiB
-
-Serie               : NerdCast
-Episodio #          : 113
-Titulo do Episodio  : NerdCast 113b - Indiana Jones e o Reino do Nerdcast de Cristal
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_113b_-_Indiana_Jones_e_o_Reino_do_Nerdcast_de_Cristal.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_113b_indianajones.mp3
-Tamanho do Arquivo  : 4.03 KiB
-
-Serie               : NerdCast
-Episodio #          : 112
-Titulo do Episodio  : NerdCast 112a - OVNI: Objeto Voador Nerd Identificado
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_112a_-_OVNI__Objeto_Voador_Nerd_Identificado.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_112a_ufologia.mp3
-Tamanho do Arquivo  : 4.31 KiB
-
-Serie               : NerdCast
-Episodio #          : 112
-Titulo do Episodio  : NerdCast 112b - Contatos Imediatos ou Ligue Mais Tarde
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_112b_-_Contatos_Imediatos_ou_Ligue_Mais_Tarde.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_112b_ufologia.mp3
-Tamanho do Arquivo  : 4.73 KiB
-
-Serie               : NerdCast
-Episodio #          : 111
-Titulo do Episodio  : NerdCast 111 - O Invencível Homem de Ferro… Velho
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_111_-_O_Invencivel_Homem_de_Ferro__Velho.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_111_homemdeferro.mp3
-Tamanho do Arquivo  : 4.69 KiB
-
-Serie               : NerdCast
-Episodio #          : 110
-Titulo do Episodio  : NerdCast 110 - Nelson Rodrigues – A vida como ela é…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_110_-_Nelson_Rodrigues___A_vida_como_ela_e_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_110_nelsonrodrigues.mp3
-Tamanho do Arquivo  : 4.03 KiB
-
-Serie               : NerdCast
-Episodio #          : 109
-Titulo do Episodio  : NerdCast 109 - Top Secret
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_109_-_Top_Secret.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_109_espionagem.mp3
-Tamanho do Arquivo  : 5.26 KiB
-
-Serie               : NerdCast
-Episodio #          : 108
-Titulo do Episodio  : NerdCast 108 - Blade Runner e a Distopia Noir Futurista
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_108_-_Blade_Runner_e_a_Distopia_Noir_Futurista.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_108_bladerunner.mp3
-Tamanho do Arquivo  : 5.97 KiB
-
-Serie               : NerdCast
 Episodio #          : 107
 Titulo do Episodio  : NerdCast 107 - Valor Energético 8.000 Kcal
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_107_-_Valor_Energetico_8.000_Kcal.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_107_comida_e_dieta.mp3
 Tamanho do Arquivo  : 4.25 KiB
-
-Serie               : NerdCast
-Episodio #          : 106
-Titulo do Episodio  : NerdCast 106 - Mioooolos!!!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_106_-_Mioooolos___.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_106_zumbis.mp3
-Tamanho do Arquivo  : 4.37 KiB
-
-Serie               : NerdCast
-Episodio #          : 105
-Titulo do Episodio  : NerdCast 105 - Fábio Yabu, o homem que matou o Jovem Nerd
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_105_-_Fabio_Yabu__o_homem_que_matou_o_Jovem_Nerd.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_105_fabioyabu.mp3
-Tamanho do Arquivo  : 4.42 KiB
-
-Serie               : NerdCast
-Episodio #          : 104
-Titulo do Episodio  : NerdCast 104 - Lendas Urbanas ou qualquer coisa parecida
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_104_-_Lendas_Urbanas_ou_qualquer_coisa_parecida.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_104_lendasurbanas.mp3
-Tamanho do Arquivo  : 3.53 KiB
-
-Serie               : NerdCast
-Episodio #          : 103
-Titulo do Episodio  : NerdCast 103 - Super Nintendo, o rei dos 16 bits
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_103_-_Super_Nintendo__o_rei_dos_16_bits.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_103_videogames_snes.mp3
-Tamanho do Arquivo  : 3.14 KiB
 
 Serie               : NerdCast
 Episodio #          : 102
@@ -3376,22 +1192,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_100_melhores100
 Tamanho do Arquivo  : 5.70 KiB
 
 Serie               : NerdCast
-Episodio #          : 99
-Titulo do Episodio  : NerdCast 99 - Oscar – Em 2008, o Nerdcast vai para…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_99_-_Oscar___Em_2008__o_Nerdcast_vai_para_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_099_oscar2008.mp3
-Tamanho do Arquivo  : 3.98 KiB
-
-Serie               : NerdCast
-Episodio #          : 98
-Titulo do Episodio  : NerdCast 98 - Silmarillion: O Antigo Testamento de Tolkien
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_98_-_Silmarillion__O_Antigo_Testamento_de_Tolkien.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_098_silmarillion.mp3
-Tamanho do Arquivo  : 5.83 KiB
-
-Serie               : NerdCast
 Episodio #          : 97
 Titulo do Episodio  : NerdCast 97 - Te pego lá fora!
 Diretorio Destino   : episodes/NerdCast
@@ -3400,52 +1200,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_097_porrada.mp3
 Tamanho do Arquivo  : 4.23 KiB
 
 Serie               : NerdCast
-Episodio #          : 96
-Titulo do Episodio  : NerdCast 96 - Nerdtour: NY, Orlando, Londres, Roma e Rússia
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_96_-_Nerdtour__NY__Orlando__Londres__Roma_e_Russia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_096_viagens_01.mp3
-Tamanho do Arquivo  : 3.50 KiB
-
-Serie               : NerdCast
-Episodio #          : 95
-Titulo do Episodio  : NerdCast 95 - Japão – Quem tem Koku, tem Edo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_95_-_Japao___Quem_tem_Koku__tem_Edo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_095_japao.mp3
-Tamanho do Arquivo  : 3.69 KiB
-
-Serie               : NerdCast
-Episodio #          : 94
-Titulo do Episodio  : NerdCast 94 - Max, Traga Minha Capa! – Entrevista com Guilherme Briggs
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_94_-_Max__Traga_Minha_Capa____Entrevista_com_Guilherme_Briggs.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_094_guilhermebriggs.mp3
-Tamanho do Arquivo  : 5.72 KiB
-
-Serie               : NerdCast
-Episodio #          : 93
-Titulo do Episodio  : NerdCast 93 - Retrospectiva Nerd 2007
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_93_-_Retrospectiva_Nerd_2007.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_093_retrospectiva2007.mp3
-Tamanho do Arquivo  : 3.54 KiB
-
-Serie               : NerdCast
 Episodio #          : 92
 Titulo do Episodio  : NerdCast 92 - Muito dinheiro no bolso, saúde pra dar e vender…
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_92_-_Muito_dinheiro_no_bolso__saude_pra_dar_e_vender_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_092_reveillon.mp3
 Tamanho do Arquivo  : 3.31 KiB
-
-Serie               : NerdCast
-Episodio #          : 91
-Titulo do Episodio  : NerdCast 91 - Westerns – O Bom, o Mau, o Feio e o Nerd
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_91_-_Westerns___O_Bom__o_Mau__o_Feio_e_o_Nerd.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_091_bangbang.mp3
-Tamanho do Arquivo  : 4.23 KiB
 
 Serie               : NerdCast
 Episodio #          : 90
@@ -3464,52 +1224,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_089_dinheiroonl
 Tamanho do Arquivo  : 4.30 KiB
 
 Serie               : NerdCast
-Episodio #          : 88
-Titulo do Episodio  : NerdCast 88 - Meu Mico Mico Meu
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_88_-_Meu_Mico_Mico_Meu.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_088_micos.mp3
-Tamanho do Arquivo  : 3.50 KiB
-
-Serie               : NerdCast
-Episodio #          : 87
-Titulo do Episodio  : NerdCast 87 - Essa pica agora é do aspira! – Entrevista com Milhem Cortaz
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_87_-_Essa_pica_agora_e_do_aspira____Entrevista_com_Milhem_Cortaz.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_087_milhemcortaz.mp3
-Tamanho do Arquivo  : 3.78 KiB
-
-Serie               : NerdCast
-Episodio #          : 86
-Titulo do Episodio  : NerdCast 86 - EU Tenho a Força! – Entrevista com Garcia Júnior
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_86_-_EU_Tenho_a_Forca____Entrevista_com_Garcia_Junior.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_086_garciajunior.mp3
-Tamanho do Arquivo  : 4.59 KiB
-
-Serie               : NerdCast
 Episodio #          : 85
 Titulo do Episodio  : NerdCast 85 - Nerdcast sem fio
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_85_-_Nerdcast_sem_fio.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_085_tecnologiasemfio.mp3
 Tamanho do Arquivo  : 4.57 KiB
-
-Serie               : NerdCast
-Episodio #          : 84
-Titulo do Episodio  : NerdCast 84 - Saturday Nerdcast Fever
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_84_-_Saturday_Nerdcast_Fever.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_084_discomusic.mp3
-Tamanho do Arquivo  : 3.43 KiB
-
-Serie               : NerdCast
-Episodio #          : 83
-Titulo do Episodio  : NerdCast 83 - Tropa de Elite – Pé na porta, tapa na cara!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_83_-_Tropa_de_Elite___Pe_na_porta__tapa_na_cara_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_083_tropadeelite.mp3
-Tamanho do Arquivo  : 3.95 KiB
 
 Serie               : NerdCast
 Episodio #          : 82
@@ -3520,76 +1240,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_082_mercadofina
 Tamanho do Arquivo  : 3.99 KiB
 
 Serie               : NerdCast
-Episodio #          : 81
-Titulo do Episodio  : NerdCast 81 - Nostalgia Animada – Parte 01
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_81_-_Nostalgia_Animada___Parte_01.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_081_desenhosanos80_1.mp3
-Tamanho do Arquivo  : 3.52 KiB
-
-Serie               : NerdCast
-Episodio #          : 80
-Titulo do Episodio  : NerdCast 80 - A Batalha do Apocalipse
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_80_-_A_Batalha_do_Apocalipse.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_080_batalhadoapocalipse.mp3
-Tamanho do Arquivo  : 4.78 KiB
-
-Serie               : NerdCast
-Episodio #          : 79
-Titulo do Episodio  : NerdCast 79 - E se o 3º Reich tivesse vencido?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_79_-_E_se_o_3__Reich_tivesse_vencido_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_079_historiaalternativa_2a-guerra.mp3
-Tamanho do Arquivo  : 4.43 KiB
-
-Serie               : NerdCast
-Episodio #          : 78
-Titulo do Episodio  : NerdCast 78 - Conspiração – LEAVE BRITNEY ALONE!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_78_-_Conspiracao___LEAVE_BRITNEY_ALONE_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_078_teoriadaconspiracao2.mp3
-Tamanho do Arquivo  : 4.33 KiB
-
-Serie               : NerdCast
 Episodio #          : 77
 Titulo do Episodio  : NerdCast 77 - Mas que mania!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_77_-_Mas_que_mania_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_077_manias.mp3
 Tamanho do Arquivo  : 3.45 KiB
-
-Serie               : NerdCast
-Episodio #          : 76
-Titulo do Episodio  : NerdCast 76a - Lost – Malditos Mind Games!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_76a_-_Lost___Malditos_Mind_Games_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_076a_lost.mp3
-Tamanho do Arquivo  : 3.74 KiB
-
-Serie               : NerdCast
-Episodio #          : 76
-Titulo do Episodio  : NerdCast 76b - Lost – Eu acredito em Jacob. Ou não.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_76b_-_Lost___Eu_acredito_em_Jacob._Ou_nao..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_076b_lost.mp3
-Tamanho do Arquivo  : 4.22 KiB
-
-Serie               : NerdCast
-Episodio #          : 75
-Titulo do Episodio  : NerdCast 75 - Simpsons – Esse é um clássico! Um dos melhores!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_75_-_Simpsons___Esse_e_um_classico__Um_dos_melhores_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_075_simpsons.mp3
-Tamanho do Arquivo  : 4.48 KiB
-
-Serie               : NerdCast
-Episodio #          : 74
-Titulo do Episodio  : NerdCast 74 - Heroes – Save the cheerleader, SAVE THE NERDS!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_74_-_Heroes___Save_the_cheerleader__SAVE_THE_NERDS_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_074_heroes.mp3
-Tamanho do Arquivo  : 4.65 KiB
 
 Serie               : NerdCast
 Episodio #          : 73
@@ -3600,52 +1256,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_073_durodematar
 Tamanho do Arquivo  : 4.28 KiB
 
 Serie               : NerdCast
-Episodio #          : 72
-Titulo do Episodio  : NerdCast 72 - Conspiração – “Constantinopla”
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_72_-_Conspiracao____Constantinopla_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_072_teoriadaconspiracao1.mp3
-Tamanho do Arquivo  : 3.83 KiB
-
-Serie               : NerdCast
-Episodio #          : 71
-Titulo do Episodio  : NerdCast 71 - Transformers – Hora de morfar!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_71_-_Transformers___Hora_de_morfar_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_071_transformers.mp3
-Tamanho do Arquivo  : 3.86 KiB
-
-Serie               : NerdCast
 Episodio #          : 70
 Titulo do Episodio  : NerdCast 70 - Harry Potter: 70 mas não agüenta!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_70_-_Harry_Potter__70_mas_nao_aguenta_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_070_harrypotter.mp3
 Tamanho do Arquivo  : 4.23 KiB
-
-Serie               : NerdCast
-Episodio #          : 69
-Titulo do Episodio  : NerdCast 69 - As 7 Faces do Dr. Zaiden
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_69_-_As_7_Faces_do_Dr._Zaiden.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_069_guilhermezaiden.mp3
-Tamanho do Arquivo  : 4.09 KiB
-
-Serie               : NerdCast
-Episodio #          : 68
-Titulo do Episodio  : NerdCast 68 - Quarteto Fantástico – TÁ NA HORA DO PAU!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_68_-_Quarteto_Fantastico___TA_NA_HORA_DO_PAU_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_068_quartetofantastico.mp3
-Tamanho do Arquivo  : 4.73 KiB
-
-Serie               : NerdCast
-Episodio #          : 67
-Titulo do Episodio  : NerdCast 67 - Salsichão, Pau de Sebo e Muita Mariola
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_67_-_Salsichao__Pau_de_Sebo_e_Muita_Mariola.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_067_festa_junina.mp3
-Tamanho do Arquivo  : 3.75 KiB
 
 Serie               : NerdCast
 Episodio #          : 66
@@ -3656,22 +1272,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_066_contosdefad
 Tamanho do Arquivo  : 4.58 KiB
 
 Serie               : NerdCast
-Episodio #          : 65
-Titulo do Episodio  : NerdCast 65 - Depois do Fim do Mundo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_65_-_Depois_do_Fim_do_Mundo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_065_pos_apocalipse.mp3
-Tamanho do Arquivo  : 3.98 KiB
-
-Serie               : NerdCast
-Episodio #          : 64
-Titulo do Episodio  : NerdCast 64 - Os verdadeiros Piratas do Caribe
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_64_-_Os_verdadeiros_Piratas_do_Caribe.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_064_verdadeirospiratas.mp3
-Tamanho do Arquivo  : 5.08 KiB
-
-Serie               : NerdCast
 Episodio #          : 63
 Titulo do Episodio  : NerdCast 63 - Feio, Forte e Formal
 Diretorio Destino   : episodes/NerdCast
@@ -3680,84 +1280,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_063_feio_forte_
 Tamanho do Arquivo  : 4.60 KiB
 
 Serie               : NerdCast
-Episodio #          : 62
-Titulo do Episodio  : NerdCast 62 - Star Wars – Só Stormtroopers Imperiais são tão precisos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_62_-_Star_Wars___So_Stormtroopers_Imperiais_sao_tao_precisos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_062_starwars_episodio4.mp3
-Tamanho do Arquivo  : 4.83 KiB
-
-Serie               : NerdCast
-Episodio #          : 61
-Titulo do Episodio  : NerdCast 61 - Bikini Girls with Machine Guns
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_61_-_Bikini_Girls_with_Machine_Guns.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_061_bikinigirlsmachineguns.mp3
-Tamanho do Arquivo  : 4.40 KiB
-
-Serie               : NerdCast
-Episodio #          : 60
-Titulo do Episodio  : NerdCast 60 - Homem-Aranha – Back in Black!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_60_-_Homem-Aranha___Back_in_Black_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_060_homemaranha3.mp3
-Tamanho do Arquivo  : 4.53 KiB
-
-Serie               : NerdCast
-Episodio #          : 59
-Titulo do Episodio  : NerdCast 59 - Caverna do Dragão – Eu não vou embora sem a Uni!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_59_-_Caverna_do_Dragao___Eu_nao_vou_embora_sem_a_Uni_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_059_cavernadodragao.mp3
-Tamanho do Arquivo  : 3.49 KiB
-
-Serie               : NerdCast
-Episodio #          : 58
-Titulo do Episodio  : NerdCast 58 - Tartarugas Mutantes Adolescentes Ninjas e Nerds
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_58_-_Tartarugas_Mutantes_Adolescentes_Ninjas_e_Nerds.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_058_tartarugasninja.mp3
-Tamanho do Arquivo  : 4.60 KiB
-
-Serie               : NerdCast
-Episodio #          : 57
-Titulo do Episodio  : NerdCast 57 - THIS IS SPARTA!!!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_57_-_THIS_IS_SPARTA___.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_057_300.mp3
-Tamanho do Arquivo  : 4.79 KiB
-
-Serie               : NerdCast
 Episodio #          : 56
 Titulo do Episodio  : NerdCast 56 - Eu fico desgraçado da minha cabeça!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_56_-_Eu_fico_desgracado_da_minha_cabeca_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_056_coisasirritantes.mp3
 Tamanho do Arquivo  : 4.38 KiB
-
-Serie               : NerdCast
-Episodio #          : 55
-Titulo do Episodio  : NerdCast 55 - Conan – Dê-me vingança ou vá para o inferno!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_55_-_Conan___De-me_vinganca_ou_va_para_o_inferno_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_055_conan.mp3
-Tamanho do Arquivo  : 4.61 KiB
-
-Serie               : NerdCast
-Episodio #          : 54
-Titulo do Episodio  : NerdCast 54 - Star Wars – 20.000 Lactobacilos, vivos!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_54_-_Star_Wars___20.000_Lactobacilos__vivos_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_054_starwars_novatri1.mp3
-Tamanho do Arquivo  : 3.03 KiB
-
-Serie               : NerdCast
-Episodio #          : 54
-Titulo do Episodio  : NerdCast 54 - Star Wars – Cavaleiros Jedi que dizem NOOO!!!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_54_-_Star_Wars___Cavaleiros_Jedi_que_dizem_NOOO___.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_054_starwars_novatri2.mp3
-Tamanho do Arquivo  : 3.81 KiB
 
 Serie               : NerdCast
 Episodio #          : 53
@@ -3776,188 +1304,12 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_052_carnaval.mp
 Tamanho do Arquivo  : 3.66 KiB
 
 Serie               : NerdCast
-Episodio #          : 51
-Titulo do Episodio  : NerdCast 51 - Rocky – Adriaaan! I did it!!!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_51_-_Rocky___Adriaaan__I_did_it___.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_051_rockybalboa.mp3
-Tamanho do Arquivo  : 4.38 KiB
-
-Serie               : NerdCast
 Episodio #          : 50
 Titulo do Episodio  : NerdCast 50 - O Melhor de 50 Nerdcasts!
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_50_-_O_Melhor_de_50_Nerdcasts_.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_050_melhores50.mp3
 Tamanho do Arquivo  : 3.86 KiB
-
-Serie               : NerdCast
-Episodio #          : 49
-Titulo do Episodio  : NerdCast 49 - Oscar – E o Nerdcast vai para…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_49_-_Oscar___E_o_Nerdcast_vai_para_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_049_oscar2007.mp3
-Tamanho do Arquivo  : 3.99 KiB
-
-Serie               : NerdCast
-Episodio #          : 48
-Titulo do Episodio  : NerdCast 48 - Arquivo X – A verdade está lá fora… ou não.
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_48_-_Arquivo_X___A_verdade_esta_la_fora__ou_nao..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_048_arquivox.mp3
-Tamanho do Arquivo  : 4.14 KiB
-
-Serie               : NerdCast
-Episodio #          : 47
-Titulo do Episodio  : NerdCast 47 - Realidade Concentrada
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_47_-_Realidade_Concentrada.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_047_realityshows.mp3
-Tamanho do Arquivo  : 3.59 KiB
-
-Serie               : NerdCast
-Episodio #          : 46
-Titulo do Episodio  : NerdCast 46 - Entrevista – Nelson Machado
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_46_-_Entrevista___Nelson_Machado.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_046_nelsonmachado.mp3
-Tamanho do Arquivo  : 4.14 KiB
-
-Serie               : NerdCast
-Episodio #          : 45
-Titulo do Episodio  : NerdCast 45 - Retrospectiva Nerd 2006
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_45_-_Retrospectiva_Nerd_2006.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_045_retrospectiva2006.mp3
-Tamanho do Arquivo  : 4.01 KiB
-
-Serie               : NerdCast
-Episodio #          : 44
-Titulo do Episodio  : NerdCast 44 - Let it snow… Let it snow… Let it snow!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_44_-_Let_it_snow__Let_it_snow__Let_it_snow_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_044_natal.mp3
-Tamanho do Arquivo  : 3.07 KiB
-
-Serie               : NerdCast
-Episodio #          : 43
-Titulo do Episodio  : NerdCast 43 - 007 – Cast… Nerdcast…
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_43_-_007___Cast__Nerdcast_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_043_007.mp3
-Tamanho do Arquivo  : 4.83 KiB
-
-Serie               : NerdCast
-Episodio #          : 42
-Titulo do Episodio  : NerdCast 42 - Lost – “Perdidos” e sem respostas
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_42_-_Lost____Perdidos__e_sem_respostas.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_042_lostskypecast.mp3
-Tamanho do Arquivo  : 3.81 KiB
-
-Serie               : NerdCast
-Episodio #          : 41
-Titulo do Episodio  : NerdCast 41 - Todos os Nerdcasts levam a Roma
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_41_-_Todos_os_Nerdcasts_levam_a_Roma.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_041_roma.mp3
-Tamanho do Arquivo  : 4.96 KiB
-
-Serie               : NerdCast
-Episodio #          : 40
-Titulo do Episodio  : NerdCast 40 - Uma camera na mão e a galera no play
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_40_-_Uma_camera_na_mao_e_a_galera_no_play.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_040_filmescaseiros.mp3
-Tamanho do Arquivo  : 3.73 KiB
-
-Serie               : NerdCast
-Episodio #          : 39
-Titulo do Episodio  : NerdCast 39 - Senta a Pua!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_39_-_Senta_a_Pua_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_039_segundaguerra.mp3
-Tamanho do Arquivo  : 4.72 KiB
-
-Serie               : NerdCast
-Episodio #          : 38
-Titulo do Episodio  : NerdCast 38 - HQ no cinema: Passado e futuro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_38_-_HQ_no_cinema__Passado_e_futuro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_038_hqnocinema.mp3
-Tamanho do Arquivo  : 4.12 KiB
-
-Serie               : NerdCast
-Episodio #          : 37
-Titulo do Episodio  : NerdCast 37 - Nerdcast com o Vampiro
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_37_-_Nerdcast_com_o_Vampiro.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_037_vampiros.mp3
-Tamanho do Arquivo  : 4.83 KiB
-
-Serie               : NerdCast
-Episodio #          : 36
-Titulo do Episodio  : NerdCast 36 - Pérolas do RPG 2
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_36_-_Perolas_do_RPG_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_036_perolasRPG2.mp3
-Tamanho do Arquivo  : 3.45 KiB
-
-Serie               : NerdCast
-Episodio #          : 35
-Titulo do Episodio  : NerdCast 35 - Star Wars: Mitos, Câmeras, Revolução!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_35_-_Star_Wars__Mitos__Cameras__Revolucao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_035_starwars.mp3
-Tamanho do Arquivo  : 4.28 KiB
-
-Serie               : NerdCast
-Episodio #          : 34
-Titulo do Episodio  : NerdCast 34 - TV – Documento Especial: Nerdcast Verdade
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_34_-_TV___Documento_Especial__Nerdcast_Verdade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_034_nudeznatv.mp3
-Tamanho do Arquivo  : 4.24 KiB
-
-Serie               : NerdCast
-Episodio #          : 33
-Titulo do Episodio  : NerdCast 33 - TV inteligente é interessante?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_33_-_TV_inteligente_e_interessante_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_033_tvinteligente.mp3
-Tamanho do Arquivo  : 3.90 KiB
-
-Serie               : NerdCast
-Episodio #          : 32
-Titulo do Episodio  : NerdCast 32 - Jogos de Tabuleiro: Coronel Mostarda na Oceania com o Cuscuz
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_32_-_Jogos_de_Tabuleiro__Coronel_Mostarda_na_Oceania_com_o_Cuscuz.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_032_jogosdetabuleiro.mp3
-Tamanho do Arquivo  : 3.62 KiB
-
-Serie               : NerdCast
-Episodio #          : 31
-Titulo do Episodio  : NerdCast 31 - DO IT NOW, DAMMIT!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_31_-_DO_IT_NOW__DAMMIT_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_031_24horas.mp3
-Tamanho do Arquivo  : 4.54 KiB
-
-Serie               : NerdCast
-Episodio #          : 30
-Titulo do Episodio  : NerdCast 30 - I See Nerd People
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_30_-_I_See_Nerd_People.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_030_shyamalan.mp3
-Tamanho do Arquivo  : 3.96 KiB
-
-Serie               : NerdCast
-Episodio #          : 29
-Titulo do Episodio  : NerdCast 29 - Policiais, Detetives, Justiceiros e o MacGyver
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_29_-_Policiais__Detetives__Justiceiros_e_o_MacGyver.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_029_seriespoliciais.mp3
-Tamanho do Arquivo  : 4.17 KiB
 
 Serie               : NerdCast
 Episodio #          : 28
@@ -3968,126 +1320,6 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_028a_lost.mp3
 Tamanho do Arquivo  : 4.06 KiB
 
 Serie               : NerdCast
-Episodio #          : 28
-Titulo do Episodio  : NerdCast 28b - Lost – Orientation 0 of 6 – The Nerd
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_28b_-_Lost___Orientation_0_of_6___The_Nerd.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_028b_lost.mp3
-Tamanho do Arquivo  : 3.66 KiB
-
-Serie               : NerdCast
-Episodio #          : 27
-Titulo do Episodio  : NerdCast 27 - Animês – Dooka yoroshiku onegai itashimasu
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_27_-_Animes___Dooka_yoroshiku_onegai_itashimasu.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_027_anime.mp3
-Tamanho do Arquivo  : 4.45 KiB
-
-Serie               : NerdCast
-Episodio #          : 26
-Titulo do Episodio  : NerdCast 26 - Star Trek – Onde Nenhum Nerd Jamais Esteve
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_26_-_Star_Trek___Onde_Nenhum_Nerd_Jamais_Esteve.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_026_startrek.mp3
-Tamanho do Arquivo  : 3.92 KiB
-
-Serie               : NerdCast
-Episodio #          : 25
-Titulo do Episodio  : NerdCast 25 - Coca-Cola, Cheetos e Dança da Vassoura
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_25_-_Coca-Cola__Cheetos_e_Danca_da_Vassoura.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_025_festasPlay.mp3
-Tamanho do Arquivo  : 2.88 KiB
-
-Serie               : NerdCast
-Episodio #          : 24
-Titulo do Episodio  : NerdCast 24 - Piratas do Caribe – Yo, ho! Yo ho!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_24_-_Piratas_do_Caribe___Yo__ho__Yo_ho_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_024_piratas2.mp3
-Tamanho do Arquivo  : 3.40 KiB
-
-Serie               : NerdCast
-Episodio #          : 23
-Titulo do Episodio  : NerdCast 23 - Superfilmes. Pague 3, leve 5!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_23_-_Superfilmes._Pague_3__leve_5_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_023_supermanreturns.mp3
-Tamanho do Arquivo  : 3.88 KiB
-
-Serie               : NerdCast
-Episodio #          : 22
-Titulo do Episodio  : NerdCast 22 - Super-Homem nos quadrinhos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_22_-_Super-Homem_nos_quadrinhos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_022_supermanHQ.mp3
-Tamanho do Arquivo  : 3.33 KiB
-
-Serie               : NerdCast
-Episodio #          : 21
-Titulo do Episodio  : NerdCast 21 - Homem-Aranha – Duendes Gosmentos Cheios de Areia
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_21_-_Homem-Aranha___Duendes_Gosmentos_Cheios_de_Areia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_021_spiderman3_teaser.mp3
-Tamanho do Arquivo  : 1.73 KiB
-
-Serie               : NerdCast
-Episodio #          : 20
-Titulo do Episodio  : NerdCast 20 - Buracos de minhoca e um capacitor de fluxo
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_20_-_Buracos_de_minhoca_e_um_capacitor_de_fluxo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_020_viagemtempo.mp3
-Tamanho do Arquivo  : 2.84 KiB
-
-Serie               : NerdCast
-Episodio #          : 19
-Titulo do Episodio  : NerdCast 19 - Vamo nexa rumo ao HEXA!
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_19_-_Vamo_nexa_rumo_ao_HEXA_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_019_copa.mp3
-Tamanho do Arquivo  : 3.12 KiB
-
-Serie               : NerdCast
-Episodio #          : 18
-Titulo do Episodio  : NerdCast 18 - A Madrugada dos Nerds
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_18_-_A_Madrugada_dos_Nerds.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_018_terror.mp3
-Tamanho do Arquivo  : 3.42 KiB
-
-Serie               : NerdCast
-Episodio #          : 17
-Titulo do Episodio  : NerdCast 17 - O Mundo Medieval de Bernard Cornwell
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_17_-_O_Mundo_Medieval_de_Bernard_Cornwell.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_017_cornwell.mp3
-Tamanho do Arquivo  : 2.91 KiB
-
-Serie               : NerdCast
-Episodio #          : 16
-Titulo do Episodio  : NerdCast 16 - E aí? X-Men 3 foi bom ou não?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_16_-_E_ai__X-Men_3_foi_bom_ou_nao_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_016_xmen3.mp3
-Tamanho do Arquivo  : 3.48 KiB
-
-Serie               : NerdCast
-Episodio #          : 15
-Titulo do Episodio  : NerdCast 15 - X-Men nos Quadrinhos
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_15_-_X-Men_nos_Quadrinhos.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_015_xmenHQ.mp3
-Tamanho do Arquivo  : 2.82 KiB
-
-Serie               : NerdCast
-Episodio #          : 14
-Titulo do Episodio  : NerdCast 14 - Esculhambando o Código Da Vinci
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_14_-_Esculhambando_o_Codigo_Da_Vinci.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_014_davinci.mp3
-Tamanho do Arquivo  : 3.41 KiB
-
-Serie               : NerdCast
 Episodio #          : 13
 Titulo do Episodio  : NerdCast 13 - Google é meu pastor e nada me faltará
 Diretorio Destino   : episodes/NerdCast
@@ -4096,429 +1328,9 @@ Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_013_google.mp3
 Tamanho do Arquivo  : 3.38 KiB
 
 Serie               : NerdCast
-Episodio #          : 12
-Titulo do Episodio  : NerdCast 12 - Os primórdios dos vídeo games
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_12_-_Os_primordios_dos_video_games.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_012_videogames.mp3
-Tamanho do Arquivo  : 2.63 KiB
-
-Serie               : NerdCast
-Episodio #          : 11
-Titulo do Episodio  : NerdCast 11 - Missão: Nerdcast
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_11_-_Missao__Nerdcast.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_011_MI3.mp3
-Tamanho do Arquivo  : 3.28 KiB
-
-Serie               : NerdCast
 Episodio #          : 10
 Titulo do Episodio  : NerdCast 10 - Nostalgia Tecnológica
 Diretorio Destino   : episodes/NerdCast
 Arquivo Destino     : NerdCast_10_-_Nostalgia_Tecnologica.mp3
 Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_010_tecnologia.mp3
 Tamanho do Arquivo  : 2.57 KiB
-
-Serie               : NerdCast
-Episodio #          : 9
-Titulo do Episodio  : NerdCast 09 - Pérolas do RPG
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_09_-_Perolas_do_RPG.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_009_perolasRPG.mp3
-Tamanho do Arquivo  : 2.65 KiB
-
-Serie               : NerdCast
-Episodio #          : 8
-Titulo do Episodio  : NerdCast 08 - O Poderoso Chefão
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_08_-_O_Poderoso_Chefao.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_008_godfather.mp3
-Tamanho do Arquivo  : 2.61 KiB
-
-Serie               : NerdCast
-Episodio #          : 7
-Titulo do Episodio  : NerdCast 07 - Os brucutus dos anos 80
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_07_-_Os_brucutus_dos_anos_80.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_007_brucutus.mp3
-Tamanho do Arquivo  : 1.55 KiB
-
-Serie               : NerdCast
-Episodio #          : 6
-Titulo do Episodio  : NerdCast 06 - V de Vingança
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_06_-_V_de_Vinganca.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/006_vdevinganca.mp3
-Tamanho do Arquivo  : 2.30 KiB
-
-Serie               : NerdCast
-Episodio #          : 5
-Titulo do Episodio  : NerdCast 05 - Bárbaros, Exterminadores e uma Vareta Espacial
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_05_-_Barbaros__Exterminadores_e_uma_Vareta_Espacial.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/005_conan.mp3
-Tamanho do Arquivo  : 1018.00 B
-
-Serie               : NerdCast
-Episodio #          : 4
-Titulo do Episodio  : NerdCast 04 - Rocky Balboa está de volta: comemorar ou chorar?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_04_-_Rocky_Balboa_esta_de_volta__comemorar_ou_chorar_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/004_Sly.mp3
-Tamanho do Arquivo  : 943.00 B
-
-Serie               : NerdCast
-Episodio #          : 3
-Titulo do Episodio  : NerdCast 03 - Quadrinhos: A volta de Jason Todd (?!)
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_03_-_Quadrinhos__A_volta_de_Jason_Todd_____.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/003_HQ_JasonTodd.mp3
-Tamanho do Arquivo  : 1.24 KiB
-
-Serie               : NerdCast
-Episodio #          : 2
-Titulo do Episodio  : NerdCast 02 - Batman Continues: Quem serão os vilões?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_02_-_Batman_Continues__Quem_serao_os_viloes_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/002_BatmanBegins.mp3
-Tamanho do Arquivo  : 673.00 B
-
-Serie               : NerdCast
-Episodio #          : 1
-Titulo do Episodio  : NerdCast 01 - Super-Homem: Herói americano ou do mundo?
-Diretorio Destino   : episodes/NerdCast
-Arquivo Destino     : NerdCast_01_-_Super-Homem__Heroi_americano_ou_do_mundo_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/001_SupermanReturns.mp3
-Tamanho do Arquivo  : 789.00 B
-
-================================== Serie Empreendedor ================================== 
-Serie               : Empreendedor
-Episodio #          : 410
-Titulo do Episodio  : Empreendedor 410 - Expresso Empreendedor 4
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_410_-_Expresso_Empreendedor_4.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_410_expresso_empreendedor_4.mp3
-Tamanho do Arquivo  : 6.31 KiB
-
-Serie               : Empreendedor
-Episodio #          : 310
-Titulo do Episodio  : Empreendedor 310 - Expresso Empreendedor 3
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_310_-_Expresso_Empreendedor_3.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_310_empreendedorismo_3.mp3
-Tamanho do Arquivo  : 4.83 KiB
-
-Serie               : Empreendedor
-Episodio #          : 243
-Titulo do Episodio  : Empreendedor 243 - Expresso Empreendedor 2
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_243_-_Expresso_Empreendedor_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_243_empreendedorismo_2.mp3
-Tamanho do Arquivo  : 3.41 KiB
-
-Serie               : Empreendedor
-Episodio #          : 203
-Titulo do Episodio  : Empreendedor 203 - Expresso Empreendedor
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_203_-_Expresso_Empreendedor.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_203_empreendedorismo.mp3
-Tamanho do Arquivo  : 4.97 KiB
-
-Serie               : Empreendedor
-Episodio #          : 24
-Titulo do Episodio  : Empreendedor 24 - O Lado B de 2017
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_24_-_O_Lado_B_de_2017.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_24.mp3
-Tamanho do Arquivo  : 3.10 KiB
-
-Serie               : Empreendedor
-Episodio #          : 23
-Titulo do Episodio  : Empreendedor 23 - Dando a volta por cima!
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_23_-_Dando_a_volta_por_cima_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_23.mp3
-Tamanho do Arquivo  : 3.02 KiB
-
-Serie               : Empreendedor
-Episodio #          : 22
-Titulo do Episodio  : Empreendedor 22 - Quem sabe negociar?
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_22_-_Quem_sabe_negociar_.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_22.mp3
-Tamanho do Arquivo  : 2.13 KiB
-
-Serie               : Empreendedor
-Episodio #          : 21
-Titulo do Episodio  : Empreendedor 21 - Empresas Unicórnios
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_21_-_Empresas_Unicornios.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_21.mp3
-Tamanho do Arquivo  : 3.17 KiB
-
-Serie               : Empreendedor
-Episodio #          : 20
-Titulo do Episodio  : Empreendedor 20 - Mitos do Empreendedorismo
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_20_-_Mitos_do_Empreendedorismo.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_20.mp3
-Tamanho do Arquivo  : 2.68 KiB
-
-Serie               : Empreendedor
-Episodio #          : 19
-Titulo do Episodio  : Empreendedor 19 - 5 admiráveis inovações
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_19_-_5_admiraveis_inovacoes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_19.mp3
-Tamanho do Arquivo  : 2.71 KiB
-
-Serie               : Empreendedor
-Episodio #          : 18
-Titulo do Episodio  : Empreendedor 18 - Fail fast. Or not.
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_18_-_Fail_fast._Or_not..mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_18.mp3
-Tamanho do Arquivo  : 2.65 KiB
-
-Serie               : Empreendedor
-Episodio #          : 17
-Titulo do Episodio  : Empreendedor 17 - Empreendedores bilionários
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_17_-_Empreendedores_bilionarios.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_17.mp3
-Tamanho do Arquivo  : 3.13 KiB
-
-Serie               : Empreendedor
-Episodio #          : 16
-Titulo do Episodio  : Empreendedor 16 - Línguas, Silício e Obama
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_16_-_Linguas__Silicio_e_Obama.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_16.mp3
-Tamanho do Arquivo  : 2.74 KiB
-
-Serie               : Empreendedor
-Episodio #          : 15
-Titulo do Episodio  : Empreendedor 15 - Investidores do Vale do Silício
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_15_-_Investidores_do_Vale_do_Silicio.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_15.mp3
-Tamanho do Arquivo  : 3.27 KiB
-
-Serie               : Empreendedor
-Episodio #          : 14
-Titulo do Episodio  : Empreendedor 14 - Empreendendo entre gigantes
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_14_-_Empreendendo_entre_gigantes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_14.mp3
-Tamanho do Arquivo  : 2.58 KiB
-
-Serie               : Empreendedor
-Episodio #          : 13
-Titulo do Episodio  : Empreendedor 13 - Empreendedorismo Digital
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_13_-_Empreendedorismo_Digital.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_13.mp3
-Tamanho do Arquivo  : 2.88 KiB
-
-Serie               : Empreendedor
-Episodio #          : 12
-Titulo do Episodio  : Empreendedor 12 - A vida depois da venda
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_12_-_A_vida_depois_da_venda.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_12.mp3
-Tamanho do Arquivo  : 2.49 KiB
-
-Serie               : Empreendedor
-Episodio #          : 11
-Titulo do Episodio  : Empreendedor 11 - O destino de uma empresa
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_11_-_O_destino_de_uma_empresa.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_11.mp3
-Tamanho do Arquivo  : 3.31 KiB
-
-Serie               : Empreendedor
-Episodio #          : 10
-Titulo do Episodio  : Empreendedor 10 - Expandindo o seu negócio
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_10_-_Expandindo_o_seu_negocio.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_10.mp3
-Tamanho do Arquivo  : 2.73 KiB
-
-Serie               : Empreendedor
-Episodio #          : 9
-Titulo do Episodio  : Empreendedor 09 - Adaptar-se ou morrer
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_09_-_Adaptar-se_ou_morrer.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_09.mp3
-Tamanho do Arquivo  : 2.41 KiB
-
-Serie               : Empreendedor
-Episodio #          : 8
-Titulo do Episodio  : Empreendedor 08 - Montando sua equipe
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_08_-_Montando_sua_equipe.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_08.mp3
-Tamanho do Arquivo  : 2.90 KiB
-
-Serie               : Empreendedor
-Episodio #          : 7
-Titulo do Episodio  : Empreendedor 07 - De olho na oportunidade
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_07_-_De_olho_na_oportunidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_07.mp3
-Tamanho do Arquivo  : 2.43 KiB
-
-Serie               : Empreendedor
-Episodio #          : 6
-Titulo do Episodio  : Empreendedor 06 - Empreendendo na crise
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_06_-_Empreendendo_na_crise.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_06.mp3
-Tamanho do Arquivo  : 2.48 KiB
-
-Serie               : Empreendedor
-Episodio #          : 5
-Titulo do Episodio  : Empreendedor 05 - Empresas e sustentabilidade
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_05_-_Empresas_e_sustentabilidade.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_05.mp3
-Tamanho do Arquivo  : 3.02 KiB
-
-Serie               : Empreendedor
-Episodio #          : 4
-Titulo do Episodio  : Empreendedor 04 - A Gestão do Negócio
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_04_-_A_Gestao_do_Negocio.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_04.mp3
-Tamanho do Arquivo  : 2.86 KiB
-
-Serie               : Empreendedor
-Episodio #          : 3
-Titulo do Episodio  : Empreendedor 03 - O Plano de Negócios
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_03_-_O_Plano_de_Negocios.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_03.mp3
-Tamanho do Arquivo  : 2.32 KiB
-
-Serie               : Empreendedor
-Episodio #          : 2
-Titulo do Episodio  : Empreendedor 02 - Abrindo a Empresa
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_02_-_Abrindo_a_Empresa.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_02.mp3
-Tamanho do Arquivo  : 2.54 KiB
-
-Serie               : Empreendedor
-Episodio #          : 1
-Titulo do Episodio  : Empreendedor 01 - O Valor de Uma Ideia
-Diretorio Destino   : episodes/Empreendedor
-Arquivo Destino     : Empreendedor_01_-_O_Valor_de_Uma_Ideia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdcast_empreendedor_01.mp3
-Tamanho do Arquivo  : 2.02 KiB
-
-================================== Serie NerdTech ================================== 
-Serie               : NerdTech
-Episodio #          : 10
-Titulo do Episodio  : NerdTech 10 - Page Rank e SEO
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_10_-_Page_Rank_e_SEO.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_10.mp3
-Tamanho do Arquivo  : 2.87 KiB
-
-Serie               : NerdTech
-Episodio #          : 9
-Titulo do Episodio  : NerdTech 09 - UX – As experiências e frustrações
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_09_-_UX___As_experiencias_e_frustracoes.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_09.mp3
-Tamanho do Arquivo  : 2.93 KiB
-
-Serie               : NerdTech
-Episodio #          : 8
-Titulo do Episodio  : NerdTech 08 - Trabalho Remoto
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_08_-_Trabalho_Remoto.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_08.mp3
-Tamanho do Arquivo  : 3.01 KiB
-
-Serie               : NerdTech
-Episodio #          : 7
-Titulo do Episodio  : NerdTech 07 - Programadores top
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_07_-_Programadores_top.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_07.mp3
-Tamanho do Arquivo  : 2.95 KiB
-
-Serie               : NerdTech
-Episodio #          : 6
-Titulo do Episodio  : NerdTech 06 - Ecossistema Mobile
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_06_-_Ecossistema_Mobile.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_06.mp3
-Tamanho do Arquivo  : 3.30 KiB
-
-Serie               : NerdTech
-Episodio #          : 5
-Titulo do Episodio  : NerdTech 05 - Machine Learning
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_05_-_Machine_Learning.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_05.mp3
-Tamanho do Arquivo  : 2.85 KiB
-
-Serie               : NerdTech
-Episodio #          : 4
-Titulo do Episodio  : NerdTech 04 - Plataformas e Arquitetura de Sistemas
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_04_-_Plataformas_e_Arquitetura_de_Sistemas.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_04.mp3
-Tamanho do Arquivo  : 3.00 KiB
-
-Serie               : NerdTech
-Episodio #          : 3
-Titulo do Episodio  : NerdTech 03 - Velocidade, performance e otimização
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_03_-_Velocidade__performance_e_otimizacao.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_03.mp3
-Tamanho do Arquivo  : 2.61 KiB
-
-Serie               : NerdTech
-Episodio #          : 2
-Titulo do Episodio  : NerdTech 02 - Programando no exterior
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_02_-_Programando_no_exterior.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_02.mp3
-Tamanho do Arquivo  : 2.67 KiB
-
-Serie               : NerdTech
-Episodio #          : 1
-Titulo do Episodio  : NerdTech 01 - Os buracos da tecnologia
-Diretorio Destino   : episodes/NerdTech
-Arquivo Destino     : NerdTech_01_-_Os_buracos_da_tecnologia.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/nerdtech_01.mp3
-Tamanho do Arquivo  : 1.95 KiB
-
-================================== Serie HaloCast ================================== 
-Serie               : HaloCast
-Episodio #          : 3
-Titulo do Episodio  : HaloCast 3 - HaloCast 3
-Diretorio Destino   : episodes/HaloCast
-Arquivo Destino     : HaloCast_3_-_HaloCast_3.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/halocast_03.mp3
-Tamanho do Arquivo  : 775.00 B
-
-Serie               : HaloCast
-Episodio #          : 2
-Titulo do Episodio  : HaloCast 2 - HaloCast 2
-Diretorio Destino   : episodes/HaloCast
-Arquivo Destino     : HaloCast_2_-_HaloCast_2.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/halocast_02.mp3
-Tamanho do Arquivo  : 1001.00 B
-
-Serie               : HaloCast
-Episodio #          : 1
-Titulo do Episodio  : HaloCast 1 - HaloCast 1
-Diretorio Destino   : episodes/HaloCast
-Arquivo Destino     : HaloCast_1_-_HaloCast_1.mp3
-Arquivo Original    : https://nerdcast.jovemnerd.com.br/halocast_01.mp3
-Tamanho do Arquivo  : 1.06 KiB
-
