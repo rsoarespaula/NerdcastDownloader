@@ -15,7 +15,7 @@ class NerdcastDownloader
 
   def download_favorites
     series_list = FeedParser.get_series
-    FavoritesManager.star_favorites(series_list)
+    FavoritesManager.fill_favorites(series_list)
     FavoritesManager.remove_not_starred(series_list)
     download_series(series_list)
   end

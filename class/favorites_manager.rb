@@ -3,7 +3,7 @@ require_relative 'series'
 require_relative 'nerdcast'
 class FavoritesManager
 
-  def self.star_favorites(series)
+  def self.fill_favorites(series)
     favorites_series = load_favorites
     favorites_series.each do |serie_fav|
       series.each do |serie_feed|
@@ -12,6 +12,9 @@ class FavoritesManager
             serie_feed.episodes.each do |episode_feed|
               if(episode_fav.episode_number == episode_feed.episode_number)
                 episode_feed.favorite = true
+                episode_feed.duration = episode_fav.duration
+                episode_feed.email_start = episode_fav.email_start
+                episode_feed.email_end = episode_fav.email_end
               end
             end
           end
@@ -36,7 +39,11 @@ class FavoritesManager
 
         episodes.each do |ep|
           nc = Nerdcast.new
-          nc.episode_number = ep
+          nc.episode_number = ep["episode_number"]
+          nc.duration = ep["duration"]
+          nc.email_start = ep["email_start"]
+          nc.email_end = ep["email_end"]
+
           favorite_episodes.push(nc)
         end
 
@@ -52,15 +59,6 @@ class FavoritesManager
   def self.remove_not_starred(series_list)
     series_list.each do |series|
       series.episodes.delete_if { |ep| ep.favorite == false}
-=begin
-
-      series.episodes.each do |ep|
-        if ep.favorite == false
-          series.episodes.delete(ep)
-        end
-      end
-
-=end
     end
   end
 

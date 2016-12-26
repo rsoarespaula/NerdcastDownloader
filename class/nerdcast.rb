@@ -10,5 +10,9 @@ class Nerdcast
   attr_accessor :size
 
   attr_accessor :favorite
+  attr_accessor :duration
+  attr_accessor :email_start
+  attr_accessor :email_end
+
 
 end
