@@ -1,1 +1,1 @@
-sudo apt-get install libmagickwand-dev imagemagick
+sudo apt-get install libmagickwand-dev imagemagick ecasound librubberband-dev rubberband-cli ffmpeg

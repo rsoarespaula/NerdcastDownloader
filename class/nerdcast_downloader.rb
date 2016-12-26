@@ -5,6 +5,7 @@ require_relative 'nerdcast'
 require_relative '../class/favorites_manager'
 require_relative '../class/printer'
 require_relative '../class/feed_parser'
+require_relative '../class/audio_processor'
 
 class NerdcastDownloader
 
@@ -31,52 +32,45 @@ class NerdcastDownloader
       puts "                        Baixando a serie #{series.name}"
       puts '==============================================================================='
 
-      episodes_to_download = select_episodes_to_download(series.episodes)
-
-      episodes_to_download.each do |nc|
+      series.episodes.each do |nc|
         download_episode(nc)
+        #AudioProcessor.remove_email_part(nc)
       end
       puts
     end
   end
 
-  def select_episodes_to_download(episodes)
-    episodes_to_download = Array.new
+  def verify_if_episode_already_exists(episode)
+    episodes_already_exists = false
 
-    total_size = 0
-
-    episodes.each do |nc|
-      if !File.size?(nc.dest_file)
-        episodes_to_download.push(nc)
-        total_size += nc.size
-      else
-        puts "Episodio #{nc.title} ja existe. Ignorando..."
+      if File.size?(episode.dest_file)
+        episodes_already_exists = true
       end
-    end
 
-    total_size_pretty = Filesize.from(total_size.to_s + " B").pretty
-    puts "Total a ser baixado: #{total_size_pretty}"
-    puts
-
-    episodes_to_download
+    episodes_already_exists
   end
 
   def download_episode(nc)
     
     begin
 
-      Printer.print_episode_data(nc)
-
       if !Dir.exists?(nc.dest_dir)
         Dir.mkdir(nc.dest_dir)
       end
 
-      File.open(nc.dest_file, "wb") do |saved_file|
-        open(nc.mp3_file, "rb", :allow_redirections => :all) do |read_file|
-          saved_file.write(read_file.read)
+      Printer.print_episode_data(nc)
+      episode_exists = verify_if_episode_already_exists(nc)
+
+      if episode_exists
+        puts "Episodio #{nc.title} ja existe."
+      else
+        File.open(nc.dest_file, "wb") do |saved_file|
+          open(nc.mp3_file, "rb", :allow_redirections => :all) do |read_file|
+            saved_file.write(read_file.read)
+          end
         end
       end
-    
+
     rescue => error
       puts "Erro ao fazer o dowload do episodio #{nc.title}. #{error}"
       File.delete(nc.dest_file)
