@@ -37,10 +37,11 @@ class FeedParser
 
         #file_name_destination = title.dup
         dest_file_name = sanitize_filename(dest_file)
+        dest_file_name = "#{episode_number} - #{dest_file_name}"
 
         dest_dir = "episodes/#{episode_series_title}"
 
-        dest_file = "#{dest_dir}/#{episode_number} - #{dest_file_name}"
+        dest_file = "#{dest_dir}/#{dest_file_name}"
 
         size = item.at_xpath('enclosure').attr('length').to_i
 

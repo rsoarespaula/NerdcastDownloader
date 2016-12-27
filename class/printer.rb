@@ -11,7 +11,6 @@ class Printer
     puts "Arquivo Destino     : #{episode.dest_file_name}"
     puts "Arquivo Original    : #{episode.mp3_file}"
     puts "Tamanho do Arquivo  : #{file_size}"
-    puts
   end
 
   def self.print_series_full(series_array)

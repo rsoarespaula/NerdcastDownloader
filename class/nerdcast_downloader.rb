@@ -34,7 +34,8 @@ class NerdcastDownloader
 
       series.episodes.each do |nc|
         download_episode(nc)
-        #AudioProcessor.remove_email_part(nc)
+        AudioProcessor.remove_email_part(nc)
+        puts
       end
       puts
     end
@@ -76,7 +77,6 @@ class NerdcastDownloader
       File.delete(nc.dest_file)
     end
 
-    puts
   end
 
 end
