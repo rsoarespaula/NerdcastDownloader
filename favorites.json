@@ -3,8 +3,8 @@
     "name": "NerdCast",
     "episodes": [
       {"episode_number": 542, "duration": "01:56:16", "email_start": "00:01:38", "email_end": "00:15:40"},
-      {"episode_number": 540, "duration": "00:00:00", "email_start": "00:00:00", "email_end": "00:00:00"},
-      {"episode_number": 541, "duration": "00:00:00", "email_start": "00:00:00", "email_end": "00:00:00"},
+      {"episode_number": 541, "duration": "01:30:49", "email_start": "00:02:07", "email_end": "00:19:45"},
+      {"episode_number": 540, "duration": "01:21:39", "email_start": "00:02:35", "email_end": "00:22:44"},
       {"episode_number": 538, "duration": "00:00:00", "email_start": "00:00:00", "email_end": "00:00:00"},
       {"episode_number": 534, "duration": "00:00:00", "email_start": "00:00:00", "email_end": "00:00:00"},
       {"episode_number": 533, "duration": "00:00:00", "email_start": "00:00:00", "email_end": "00:00:00"},
